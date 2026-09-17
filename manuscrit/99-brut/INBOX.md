@@ -75,3 +75,6 @@ Stratège A/B/C + R1–R5 + 0–5 ans ; Charte formule ; Risque 0–4 ; Ops shad
 
 ## 2026-09-17 — via Hive-Chef — Verrou N0 livre
 A∪B∪C tension only ; forme Charte ; Jour 0 registre invalidations+natures avant Collège/personne procédurale ; OKR KR1–KR3 ; pas d’hybride final ; trous ouverts.
+
+## 2026-09-17 — via Hive-Chef — CRITIQUE MICKA livre V2
+Livré = notes pas livre. Exigence prose continue, TdM, glossaire *, matière fondue. Priorité : SOMMAIRE + Ch.1.
