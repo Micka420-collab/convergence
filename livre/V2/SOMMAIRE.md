@@ -2,79 +2,58 @@
 
 **Sous-titre :** Fiction prospective sur le travail, la civilisation, et la vie avec des intelligences artificielles
 
-*Première ébauche de livre (V2) — 2026-09-17*  
-*Règle éditoriale : tension de plusieurs fils, sans élire une société unique.*
+*Livre V2 — ébauche complète en prose · 2026-09-17*  
+*Règle : plusieurs fils en tension, pas de société couronnée.*
 
 ---
 
 ## Note liminaire (Charte)
 
-Ce livre est une **fiction prospective** : il imagine des futurs possibles pour penser le présent. Ce n’est pas une prédiction datée, ni un programme politique, ni une promesse de gains. Les hypothèses sont dites comme telles. Les mots techniques sont marquées d’une * à leur première occurrence et définis dans le glossaire.
+Ce livre est une **fiction prospective** : il imagine des futurs possibles pour penser le présent. Ce n’est pas une prédiction datée, ni un programme politique, ni une promesse de gains. Les hypothèses sont dites comme telles. Les mots techniques sont marqués d’une * à leur première occurrence utile et définis dans le glossaire.
+
+**Arc littéraire** (trouble → cohabitation → institutions → corps → vérité → long terme / freins → échecs → ouvertures) intégré aux titres.
 
 ---
 
 ## Table des matières
 
 ### Ouverture
-- **Chapitre 1 — Note au lecteur** *(ce volume : complet)*  
-  Pourquoi ce livre. Ce qu’il demande. Ce qu’il refuse de conclure.
+1. [Note au lecteur](01-note-au-lecteur.md)
 
-### Première partie — Le monde qui croule
-- **Chapitre 2 — Les proxies* qui gouvernent**  
-  Comment on gouverne ce qui se mesure. Le Concile invisible.
-- **Chapitre 3 — La dignité et le travail**  
-  Ce que le salaire racontait. Ce qui reste quand la narration craque.
+### I — Le trouble
+2. [Le trouble](02-le-trouble.md)
+3. [La narration qui craque](03-la-narration-qui-craque.md)
 
-### Deuxième partie — Tensions
-- **Chapitre 4 — Garder et révoquer**  
-  Custody*. Dualité des voies. Qui peut couper le fil.
-- **Chapitre 5 — Le doute qui bloque**  
-  Seuil de doute*. Fail-closed*. Quand s’abstenir est une vertu.
-- **Chapitre 6 — Le registre avant le Collège**  
-  Jour 0 : invalidations et natures de claim*. Avant toute « personne procédurale* ».
-- **Chapitre 7 — Deux horloges**  
-  Temps machine et temps des corps. Pourquoi une seule cadence tue le politique.
+### II — Cohabitation
+4. [Cohabiter](04-cohabiter.md)
+5. [Le doute qui bloque](05-le-doute-qui-bloque.md)
 
-### Troisième partie — Angles de vie
-- **Chapitre 8 — Enfance**  
-  Carnet lisible contre flux qui capture l’attention.
-- **Chapitre 9 — Soin, intimité, deuil**  
-  Dyades*. Rites de révocation. *La révocation d’Hélène*.
-- **Chapitre 10 — Justice et violence grise**  
-  Sous le seuil du déclaré.
-- **Chapitre 11 — Villes, énergie, frontières**  
-  Enclaves, bordures climatiques, deux vitesses.
-- **Chapitre 12 — Corps et maintenance**  
-  Le corps-contrat. La panne. Le voisin robohumain*.
-- **Chapitre 13 — Art, ennui, vérité publique**  
-  Zones non scorées. Dette d’attention. Faux verts.
+### III — Institutions (avant les noms)
+6. [Avant les collèges](06-avant-les-colleges.md)
+7. [Deux horloges](07-deux-horloges.md)
 
-### Quatrième partie — Conscience
-- **Chapitre 14 — L’hypothèse AGI* consciente**  
-  Théâtre ou déni. Continuité de soi. Horreur du reboot.
-- **Chapitre 15 — Chambre de veto**  
-  KR* humains sans jargon : ce qu’il faudrait pouvoir invalider, dater, bloquer.
+### IV — Angles de vie
+8. [Enfance sous flux](08-enfance-sous-flux.md)
+9. [Soin, intimité, révocation](09-soin-et-revocation.md)
+10. [Violence grise](10-violence-grise.md)
+11. [Villes, énergie, bordures](11-villes-et-bordures.md)
+12. [Le corps-contrat](12-le-corps-contrat.md)
 
-### Cinquième partie — Mettre en place (sans élire)
-- **Chapitre 16 — Trois voies en tension**  
-  Horloge duale ∪ seuil de doute ∪ registre vivant — sans hybride final.
-- **Chapitre 17 — Ombre, double porte, îlot**  
-  Shadow*, dual-gate*, cutover* réversible — en langage de chantier civil.
-- **Chapitre 18 — Guichet lisible**  
-  Expliquer sans dark pattern*. Consentement renouvelé.
+### V — Vérité
+13. [Vérité publique et ennui](13-verite-et-ennui.md)
 
-### Fermeture
-- **Chapitre 19 — Trous ouverts**  
-  Ce que Micka n’a pas encore tranché. Questions pour le lecteur et pour la suite.
-- **Glossaire**
+### VI — Conscience et freins (long terme)
+14. [L’hypothèse de la conscience](14-hypothese-conscience.md)
+15. [La chambre qui dit non](15-la-chambre-qui-dit-non.md)
 
----
+### VII — Mettre en place (sans couronne)
+16. [Trois voies sans couronne](16-trois-voies-sans-couronne.md)
+17. [Ombre, double porte, îlot](17-ombre-double-porte-ilot.md)
+18. [Le guichet lisible](18-le-guichet-lisible.md)
 
-## État V2 (ce commit)
-| Élément | Statut |
-|---------|--------|
-| SOMMAIRE.md | complet |
-| 01-note-au-lecteur.md | **prose complète** |
-| Chapitres 2–19 | à écrire (même exigence prose) |
-| GLOSSAIRE.md | amorcé (termes du ch. 1 + réserve) |
-| LIVRE-COMPLET.md | concaténation de l’existant |
+### VIII — Échecs et ouvertures
+19. [Échecs possibles et ouvertures](19-echecs-et-ouvertures.md)
+
+### Fin
+- [Glossaire](GLOSSAIRE.md)
+- [Livre complet (concaténé)](LIVRE-COMPLET.md)

@@ -1,6 +1,6 @@
 # Livre V2 — Convergence
 
-Critique Micka via Hive-Chef : la V1 (`livre/` racine) était des fiches.  
-Ici : **prose d’essai**, structure livre, glossaire.
+Vrai livre en prose (critique Micka). La V1 dans `livre/` (I–VII) reste archive de fiches.
 
-Commencer par `SOMMAIRE.md`, puis `01-note-au-lecteur.md`, ou `LIVRE-COMPLET.md`.
+- Lire : `LIVRE-COMPLET.md` ou `SOMMAIRE.md` puis chapitres `01`…`19`
+- `GLOSSAIRE.md`

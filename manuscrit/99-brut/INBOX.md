@@ -78,3 +78,6 @@ A∪B∪C tension only ; forme Charte ; Jour 0 registre invalidations+natures av
 
 ## 2026-09-17 — via Hive-Chef — CRITIQUE MICKA livre V2
 Livré = notes pas livre. Exigence prose continue, TdM, glossaire *, matière fondue. Priorité : SOMMAIRE + Ch.1.
+
+## 2026-09-17 — via Hive-Chef — V2 ch.2→fin
+GO immédiat prose complète + arc littéraire Stratège. Livrable livre/V2/.
