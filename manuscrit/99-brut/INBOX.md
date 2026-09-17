@@ -23,3 +23,11 @@ Chaque envoi = une entrée datée ici, puis tri vers les dossiers thème / déba
 
 **Classement :** civilisation / symbiose (ouverture lecteur) → `manuscrit/03-civilisation/` + amorce note lecteur.
 
+## 2026-09-17 — via Hive-Chef — libellé figé Micka
+
+**Décision Micka :** le geste de lecture s’appelle **fiction prospective** (pas « design fiction », pas « anticipation ancrée »).
+
+**Statut prose :** brouillon Chef proposé à Micka — **en attente validation** ; pas de merge / prose finale avant OK Micka.
+
+**Classement :** civilisation / symbiose / cadrage lecteur.
+

@@ -16,3 +16,7 @@ Comprendre ce que devient **l’humain qui travaille, désire et décide** quand
 
 ## Lecteur imaginé
 Moi d’abord. Puis quelqu’un intelligent, non spécialiste, qui sent que le travail et le sens bougent.
+
+## Libellé lecteur (figé)
+**Fiction prospective** — décidé par Micka 2026-09-17 via Hive-Chef.
+

@@ -4,6 +4,7 @@
 
 Source : inbox `2026-09-17 ~14:54 Europe/Paris` (via Hive-Chef).
 Fil : **ouverture / note aux lecteurs** + thèse civilisationnelle (symbiose homme–machine).
+Libellé lecteur figé : **fiction prospective** (Micka 2026-09-17). Prose finale en attente OK Micka sur brouillon Chef.
 Statut : matière Micka reçue ; ébauche note lecteur dans `NOTE-LECTEUR-ebauche.md`.
 
 ## Scénarios à débattre (pas à prédire)
