@@ -4,7 +4,7 @@ Cohabiter n’est pas fusionner. La *symbiose dont parle ce livre n’est pas un
 
 Au centre de cette exigence se trouve la *custody, mot un peu froid pour une question chaude : qui garde une identité, une décision, une mémoire, un accès au corps ? Qui peut révoquer ? Sans réponse claire, la cohabitation devient occupation.
 
-**[fiction prospective]** Une voie duale apparaît alors : non pas parce qu’elle est « la » solution, mais parce qu’une seule voie irrévocable est une captive. D’un côté, une garde humaine explicite. De l’autre, une garde système, auditable. Si l’une cesse d’être révocable ou vérifiable, elle s’invalide : on bascule, ou on s’abstient. Le théâtre du « dual » (deux étiquettes, un seul pouvoir) est l’échec à nommer.
+Une voie duale apparaît alors : non pas parce qu’elle est « la » solution, mais parce qu’une seule voie irrévocable est une captive. D’un côté, une garde humaine explicite. De l’autre, une garde système, auditable. Si l’une cesse d’être révocable ou vérifiable, elle s’invalide : on bascule, ou on s’abstient. Le théâtre du « dual » (deux étiquettes, un seul pouvoir) est l’échec à nommer.
 
 Autour de la custody se tisse autre chose : la *dyade. Pas une romance obligatoire. Un lien de garde croisée, humain et humain, ou humain et système, où la révocation a un sens parce que quelqu’un d’autre que l’opérateur distant est concerné. Sans dyade, on obtient vite une caste d’agents seuls, efficaces, sans deuil possible. Avec des dyades exclusives mal conçues, on obtient une autre caste : ceux qui ont droit à la relation contre ceux qui n’ont droit qu’au guichet.
 

@@ -8,7 +8,7 @@
 
 ## Avant de commencer
 
-Ce livre imagine des futurs possibles pour penser le présent. Ce n’est pas une prédiction, ni un programme, ni une promesse d’enrichissement. Quand une idée est une hypothèse, elle se présente comme telle. Les mots marqués * sont expliqués à la fin : ce qu’ils veulent dire ici, ce qu’ils ne veulent pas dire, et ce qui reste ouvert.
+Ce livre imagine des futurs possibles pour penser le présent. Ce n’est pas une prédiction, ni un programme, ni une promesse d’enrichissement. Quand une idée est une hypothèse, elle se présente comme telle. On dit les hypothèses. On laisse les trous.
 
 Le chemin du livre : le trouble, la cohabitation, les institutions, les corps, la vérité, l’oubli, les freins, trois chemins tenus ensemble sans en élire un, puis les échecs et les ouvertures.
 
@@ -55,4 +55,4 @@ Le chemin du livre : le trouble, la cohabitation, les institutions, les corps, l
 20. [Échecs possibles et ouvertures](20-echecs-et-ouvertures.md)
 
 ### Fin
-En fin d’ouvrage : le [Glossaire](GLOSSAIRE.md) (forme Charte : désigne, ne signifie pas, trou) et le [Livre complet](LIVRE-COMPLET.md) concaténé.
+[Glossaire](GLOSSAIRE.md)

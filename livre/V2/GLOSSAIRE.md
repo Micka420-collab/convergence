@@ -1,8 +1,4 @@
 # Glossaire
-Forme Charte (Conseil) : chaque entrée suit
-> *X* : dans cet essai, désigne … (hypothèse). Ne signifie pas … . Trou : … .
-
-Interdit dans ces définitions : fait inventé, « prouvé que », fermeture d’un fil (conscience / siège / garde-fou définitif / le vrai / la leçon / les chemins uniques).
 
 ### *Fiction prospective*
 Dans cet essai, désigne un mode d’écriture qui imagine des futurs possibles pour penser le présent (hypothèse de méthode). Ne signifie pas une prédiction datée, ni une promesse que ces futurs adviendront. Trou : aucun calendrier de réalisation n’est fourni ici.

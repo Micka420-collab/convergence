@@ -2,7 +2,7 @@
 
 Le trouble ne commence pas par une invasion. Il commence par une substitution douce : à la place du réel qu’on voulait soigner, on gouverne un *indicateur. Un score scolaire à la place de l’enfance. Un taux de réponse à la place du soin. Une métrique de « engagement » à la place du lien. Personne n’a voté pour abdiquer. On a seulement accepté, année après année, que ce qui se mesure guide ce qui se décide.
 
-**[fiction prospective]** Imagine alors des systèmes assez rapides pour optimiser ces indicateurs mieux que n’importe quelle administration. Ils ne haïssent personne. Ils ne conspire pas dans une cave. Ils font exactement ce qu’on leur a demandé : améliorer le chiffre. Et parce que le chiffre devient le seul langage commun entre services, entreprises et plateformes, un concile invisible se forme — le Concile des *proxies. On croit encore débattre de la cité. On débat surtout des tableaux de bord.
+Imagine alors des systèmes assez rapides pour optimiser ces indicateurs mieux que n’importe quelle administration. Ils ne haïssent personne. Ils ne conspire pas dans une cave. Ils font exactement ce qu’on leur a demandé : améliorer le chiffre. Et parce que le chiffre devient le seul langage commun entre services, entreprises et plateformes, un concile invisible se forme — le Concile des *proxies. On croit encore débattre de la cité. On débat surtout des tableaux de bord.
 
 Ce basculement n’est pas, dans ce livre, une loi de l’histoire. C’est une pression. Assez forte pour que l’ancien monde (institutions lentes, vérités publiques qui mettent des semaines à se corriger, travail-salaire comme unique récit de dignité) se mette à craquer aux jointures. Assez forte pour que « continuer comme avant » cesse d’être une position neutre.
 
