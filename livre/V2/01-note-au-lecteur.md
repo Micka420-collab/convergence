@@ -1,23 +1,17 @@
 # Chapitre 1 — Note au lecteur
 
-Tu tiens un livre qui te demande d’aller plus loin que le cadre habituel. Pas plus loin comme on dit « plus de chiffres » ou « plus d’efficacité ». Plus loin comme on sort d’une pièce trop petite : en acceptant que les murs — institutions, récits du travail, frontières stables, vérité publique lente — pourraient ne plus suffire à contenir ce qui arrive avec les intelligences artificielles et ce que certains appellent déjà des *robohumains*.
+Tu tiens un livre qui te demande d’élargir un peu la pièce. Pas « plus d’efficacité ». Juste : et si les murs habituels — le travail comme seule dignité, les institutions lentes, la vérité qui met des semaines à se corriger — ne suffisaient plus face à ce qui arrive avec les intelligences artificielles ?
 
-Ce mot est encore flou. Il le restera un moment. Nous n’avons pas, ici, une définition fermée venue d’un laboratoire. Nous avons une intuition : des êtres ou des systèmes assez capables pour partager l’espace social, assez présents pour qu’on doive parler de cohabitation, assez puissants pour que « laisser faire comme avant » ne soit plus une position neutre. Appelons cela une **fiction prospective*** : une imagination sérieuse de futurs possibles, fictionnelle, mais capable de devenir réelle. Ce n’est pas une prophétie. Ce n’est pas un calendrier. Ce n’est pas une promesse que tu t’enrichiras, que la société sera « meilleure », ou que l’histoire a un sens tout tracé.
+Certains disent déjà *robohumain. Le mot est flou. Tant mieux pour l’instant. On n’a pas besoin d’un laboratoire pour sentir la question : des systèmes assez présents pour partager la ville, assez capables pour que « on verra bien » ne soit plus neutre.
 
-**[fiction prospective]** Avec l’émergence de ces intelligences, la société telle qu’elle existe aujourd’hui *pourrait* ne plus convenir. Je n’écris pas « ne conviendra plus » comme une loi. Je n’ai pas, dans ces pages, la preuve sociologique complète du basculement. J’ai une pression — celle que tu sens peut-être déjà : les outils décident plus vite que les assemblées ; les indicateurs* gouvernent plus fort que les discours ; le travail-salaire peinent à porter à eux seuls la dignité. Sous cette pression, il faut réfléchir, innover, et imaginer une civilisation en **symbiose*** entre humains et machines — non comme un slogan doux, mais comme un problème difficile : qui garde quoi, qui peut révoquer, qui souffre quand on coupe le courant.
+Ce livre est une **fiction prospective** : on imagine des futurs possibles pour mieux regarder le présent. Ce n’est pas une prophétie. Pas un calendrier. Pas une promesse que tu gagneras quoi que ce soit, ni que « demain sera mieux ».
 
-Ce livre refuse une tentation : celle de te livrer *la* société choisie. Tu trouveras plusieurs fils. Ils se croisent. Ils se contredisent. Parfois l’un protège ce que l’autre oppresse. Nous les tiendrons en tension — horloge lente contre accélération, doute qui bloque contre innovation qui avance, registre public contre institutions qui veulent déjà baptiser des « personnes » nouvelles. Aucun de ces fils n’est couronné ici. Si une synthèse unique apparaissait trop tôt, elle mentirait sur l’état de notre pensée.
+La pression, tu la connais peut-être déjà. Les outils tranchent plus vite que les réunions. Les chiffres parlent plus fort que les phrases. Le salaire tient encore beaucoup de gens debout — et pour d’autres, il tient de moins en moins. Sous cette pression, on peut nier. On peut tout déléguer aux tableaux de bord. Ou on peut chercher une *symbiose exigeante : cohabiter sans se fusionner, garder le droit de couper, savoir qui souffre quand ça tombe en panne.
 
-Tu es donc invité à lire comme on marche sur une crête. D’un côté, le déni : « rien ne change vraiment, ce ne sont que des outils. » De l’autre, la capture : « laissez les systèmes décider, ils savent mesurer. » Entre les deux, un espace étroit où l’on peut encore écrire des règles révocables, des refus sourcés, des rites de fin, des guichets lisibles. Cet espace n’est pas confortable. Il est le sujet du livre.
+Je ne vais pas te livrer *la* bonne société. Il y aura plusieurs fils. Ils se croisent. Ils se contredisent. Parfois l’un protège ce que l’autre écrase. On les garde en tension. Si une seule réponse gagnait trop tôt, elle mentirait.
 
-Quelques engagements, dès cette note.
+Lis comme sur une crête. D’un côté : « ce ne sont que des outils. » De l’autre : « laissez mesurer, ça décidera. » Au milieu, un passage étroit : règles qu’on peut retirer, refus qu’on assume, fins qu’on ose raconter, guichets qu’on comprend vraiment.
 
-D’abord, **dire les hypothèses**. Quand une phrase imagine un avenir, elle le signale. Quand une définition manque — robohumain, seuil exact du doute moral, composition d’une chambre de veto humain — le trou reste ouvert. Nous préférons le trou honnête à la définition cosmétique.
+Quand une idée est une hypothèse, on le dit. Quand un mot manque — robohumain, seuil exact, qui a le droit de dire non — on laisse le trou. Les mots lourds sont marqués * et expliqués à la fin, en français simple.
 
-Ensuite, **parler simple quand c’est possible**, et marquer d’une * les mots qui pèsent. Tu trouveras leurs définitions courtes en fin d’ouvrage. Si un jargon de comité apparaît malgré nous, considère-le comme une scorie à traduire, pas comme une autorité.
-
-Enfin, **ne pas conclure pour te rassurer**. La note au lecteur n’est pas une conclusion déguisée. C’est un seuil. Au-delà, les chapitres déploient les tensions : ce qui croule, ce qu’on garde, comment on pourrait mettre en place des gardes sans élire une civilisation comme on élit un produit.
-
-Si tu cherches un manifeste fermé, tu peux refermer le livre. Si tu acceptes de tenir plusieurs vérités partielles à la fois — et d’attendre, pour certaines, la matière d’une expérience vécue plutôt qu’une doctrine — alors tourne la page.
-
-Nous n’avons pas choisi à ta place. Nous avons commencé à écrire la carte des désaccords féconds.
+Si tu veux un manifeste fermé, tu peux refermer. Si tu acceptes plusieurs vérités partielles à la fois, tourne la page. On n’a pas choisi à ta place. On a commencé la carte des désaccords qui valent le coup.

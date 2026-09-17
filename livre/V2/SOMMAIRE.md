@@ -2,17 +2,15 @@
 
 **Sous-titre :** Fiction prospective sur le travail, la civilisation, et la vie avec des intelligences artificielles
 
-*Livre V2 — prose · verrou Conseil glossaire + arc · 2026-09-17*  
-*Plusieurs fils en tension — pas de société couronnée.*
+*Fiction prospective — plusieurs fils, aucune société couronnée.*
 
 ---
 
-## Note liminaire (Charte)
+## Avant de commencer
 
-Ce livre est une **fiction prospective**. Ce n’est pas une prédiction datée, ni un programme, ni une promesse de gains. Les hypothèses sont dites comme telles. Les mots marqués * renvoient au glossaire (forme : désigne / ne signifie pas / trou).
+Ce livre imagine des futurs possibles pour penser le présent. Ce n’est pas une prédiction, ni un programme, ni une promesse d’enrichissement. Quand une idée est une hypothèse, elle se présente comme telle. Les mots marqués * sont expliqués à la fin : ce qu’ils veulent dire ici, ce qu’ils ne veulent pas dire, et ce qui reste ouvert.
 
-**Arc littéraire** (fusionné à la table — pas une grille mécanique de titres collés) :  
-trouble → cohabitation → institutions → corps → vérité → **oubli** → freins / long terme → **trois chemins** (sans société finale) → échecs → ouvertures.
+Le chemin du livre : le trouble, la cohabitation, les institutions, les corps, la vérité, l’oubli, les freins, trois chemins tenus ensemble sans en élire un, puis les échecs et les ouvertures.
 
 ---
 
