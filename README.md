@@ -16,6 +16,7 @@ Pas un paper académique figé d’abord : un **cahier de bord intellectuel** qu
 |---------|------|
 | `manuscrit/` | Chapitres en cours |
 | `notes/` | Fragments, citations, intuitions brutes |
+| `livre/` | Plan + première version exposée (chapitres I–VII) |
 | `manuscrit/05-debats/` | Objections ↔ réponses |
 | `manuscrit/99-brut/` | Dump de pensées sans filtre |
 

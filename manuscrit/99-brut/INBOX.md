@@ -65,3 +65,7 @@ Annexe Eng déjà classée sous corps/robohumain.
 - Trous **ouverts**
 - Suite = **enrichir** si Micka envoie de la matière — **pas conclure**
 
+## 2026-09-17 — via Hive-Chef — ORDRE LIVRE
+
+Produire plan + première version chapitres (fiction prospective, multi-fils sans conclure).
+Livrable : dossier `livre/`.
