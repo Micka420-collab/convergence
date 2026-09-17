@@ -72,3 +72,6 @@ Livrable : dossier `livre/`.
 
 ## 2026-09-17 — via Hive-Chef — Enrichissement VI packages
 Stratège A/B/C + R1–R5 + 0–5 ans ; Charte formule ; Risque 0–4 ; Ops shadow→dual-gate→îlot ; Research dual-track 3 étapes ; Produit guichet 1–4 ; Idy *La révocation d’Hélène*. Multi-fils.
+
+## 2026-09-17 — via Hive-Chef — Verrou N0 livre
+A∪B∪C tension only ; forme Charte ; Jour 0 registre invalidations+natures avant Collège/personne procédurale ; OKR KR1–KR3 ; pas d’hybride final ; trous ouverts.

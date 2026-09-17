@@ -5,6 +5,30 @@
 > **Formule Charte (chaque hypothèse) :** *Hypothèse ; invalidation si ; alternative / abstention.*  
 > Mode : fiction prospective · zéro promesse de gains.
 
+## Verrou N0 (Conseil · 2026-09-17 via Chef)
+
+**Statut :** figé pour le livre — *process*, pas société choisie.
+
+| Verrou | Contenu |
+|--------|---------|
+| **A∪B∪C** | Horloge duale ∪ Seuil de doute ∪ Registre vivant — **en tension uniquement** |
+| **Interdit** | Hybride final qui fusionne A, B, C en doctrine unique |
+| **Forme** | Formule Charte obligatoire sur toute hypothèse de mise en place |
+| **Jour 0** | Ouvrir le **registre des invalidations + natures de claim** *avant* Collège du Siècle / personne procédurale |
+| **OKR** | KR1 critères d’invalidation · KR2 natures + TTL · KR3 Chambre Veto humaine (fiche 04) |
+
+**Hypothèse (méta N0) :** tenir A∪B∪C en tension + Jour 0 registre réduit le théâtre d’alignement. **[fiction prospective]**  
+**Invalidation si :** un fil A/B/C est déclaré « gagnant » ; ou Collège / personne procédurale démarrent sans registre invalidations+natures ; ou KR1–KR3 restent cosmétiques (jamais testés).  
+**Alternative / abstention :** rester en inventaire paper ; geler Collège et personne procédurale ; abstention d’étendre hors shadow.
+
+### Trous ouverts (N0 — non inventés)
+- [ ] Composition Chambre Veto (KR3)
+- [ ] Liste fermée critères KR1
+- [ ] Durées TTL / natures exactes (KR2)
+- [ ] Seuil numérique ou qualitatif de doute (B)
+- [ ] Qui écrit / révoque le registre Jour 0
+- [ ] Critère de *réouverture juste* quand fail-closed fige l’injustice
+
 ## Gardes déjà nommées (boîte à outils, pas programme unique)
 1. Dual-track custody + invalidation si non auditable/révocable  
 2. Abstention sourcée  
@@ -17,7 +41,9 @@
 
 ---
 
-## Package Stratège — trois axes + R1–R5 + horizon 0–5 ans
+## Package Stratège — A∪B∪C (verrou N0 : tension only) + R1–R5 + horizon 0–5 ans
+
+> **N0 :** A, B et C restent **juxtaposés**. Pas de synthèse « A+B+C = régime final ».
 
 ### A — Horloge duale
 **Hypothèse :** deux cadences coexistent — temps machine (décision, déploiement) et temps politique / corps (délibération, deuil, veto). Sans horloge duale, le politique est absorbé par le tick. **[fiction prospective]**  
@@ -46,7 +72,7 @@
 ### Phases Stratège 0–5 ans **[fiction prospective — calendrier optionnel, pas roadmap officielle]**
 | Phase | Horizon | Focus |
 |-------|---------|--------|
-| 0 | an 0 | Inventaire + formule Charte sur chaque pilote |
+| 0 | an 0 / **Jour 0 N0** | Registre invalidations + natures **avant** Collège / personne procédurale ; formule Charte |
 | 1 | ~1 an | Shadow / paper (voir Ops, Produit) |
 | 2 | ~2 ans | Dual-gate sur îlots |
 | 3 | ~3 ans | Cutover îlot réversible |
@@ -151,7 +177,7 @@ Lien Stratège phases 1–3 et Risque 1–3 — **juxtaposition**, pas fusion ob
 | Produit | Guichet paper 1–4 | Théâtre UI |
 | Idy | Récit *Hélène* | Propagande émotionnelle |
 
-**Le livre ne choisit pas un fil gagnant.**
+**Le livre ne choisit pas un fil gagnant.** Verrou N0 : A∪B∪C en tension — **pas d’hybride final**.
 
 ---
 
