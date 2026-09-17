@@ -1,5 +1,11 @@
 # Civilisation future — notes
 
+## Classement matière (2026-09-17)
+
+Source : inbox `2026-09-17 ~14:54 Europe/Paris` (via Hive-Chef).
+Fil : **ouverture / note aux lecteurs** + thèse civilisationnelle (symbiose homme–machine).
+Statut : matière Micka reçue ; ébauche note lecteur dans `NOTE-LECTEUR-ebauche.md`.
+
 ## Scénarios à débattre (pas à prédire)
 - **Abondance administrative** — tout est fourni ; peu de prise
 - **Compétition accélérée** — humains + IA dans une course permanente
@@ -14,4 +20,4 @@
 - Mort, amour, ennui, création encore possibles sans permission d’un système
 
 ## Mes intuitions (brut)
-- _(à remplir)_
+- Voir inbox 2026-09-17 : société actuelle *pourrait* ne plus convenir ; besoin d’innover vers une symbiose homme–machine ; lecteur invité au fictionnel-pouvant-devenir-réel (libellé TBD Micka).
