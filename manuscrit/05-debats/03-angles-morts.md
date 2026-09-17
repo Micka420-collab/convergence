@@ -45,17 +45,35 @@ Chaque slot : **question** + **1 possibilité seed [fiction prospective]** (Conv
 ### 7. Quotidien corps / robohumain
 - **Q :** Corps, fatigue, désir, prothèses, « robohumain » **[trou définition Micka]** au jour le jour.
 - **Seed [fiction prospective] :** rythme circadien protégé ; risque corps comme API.
-- **Voix :** _(en attente)_
+- **Voix Convergence (vague 2, via Chef) — [fiction prospective] :**
+  - **Thèse A — « Corps horodatés » :** chaque geste utile (sommeil, pas, repas, humeur) alimente des proxies de « forme » ; le droit de dysfonctionner devient rare.
+  - **Thèse B — « Peau duale » :** hybride chair/prothèse/IA embarquée ; la dyade (Idy) s’applique aussi au couple humain–module — sans dyade, caste de corps « full stack ».
+  - **Thèse C — « Robohumain comme voisin » :** présence quotidienne non humaine sans statut clair (travailleur ? outil ? citoyen ?) — **[trou]** tant que Micka n’a pas nommé la chose.
+  - **Fragile :** médicaliser le social ; confondre accessibilité prothétique et obligation d’upgrade.
+  - **Ne pas inventer :** définition Micka de robohumain ; sa préférence pour A/B/C.
+- **Voix (autres) :** _(en attente)_
 
-### 8. Art / sens
-- **Q :** Création, beauté, rite — hors KPI de bien-être.
+### 8. Art / sens / rituel
+- **Q :** Création, beauté, rite — hors KPI de bien-être. *(Chef : art / rituel / sens)*
 - **Seed [fiction prospective] :** parts non optimisables du commun ; risque art comme contenu de remplissage.
-- **Voix :** _(en attente)_
+- **Voix Convergence (vague 2, via Chef) — [fiction prospective] :**
+  - **Thèse A — « Parts non scorées » :** zones du commun où aucune métrique n’a autorité (rite, deuil, fête) ; l’IA peut assister la logistique, pas valider le sens.
+  - **Thèse B — « Rituel de preuve inverse » :** au lieu de runs qui prouvent l’innovation (Ops), des rites qui prouvent qu’on *n’a pas* optimisé — silence collectif, œuvres sans audience forcée.
+  - **Thèse C — « Sens comme custody » :** le sens n’appartient pas au générateur ; custody culturelle dual-track (Research) — révocable si non auditable par la communauté.
+  - **Fragile :** institutionnaliser le « non-optimisable » le transforme en KPI déguisé.
+  - **Objection :** l’art sous IA est déjà là ; refuser le score = nostalgie de rareté.
+- **Voix (autres) :** _(en attente)_
 
 ### 9. Ennui
 - **Q :** L’ennui est-il un droit, un bug, une ressource ?
 - **Seed [fiction prospective] :** droit à l’inutile ; risque économie de la stimulation permanente.
-- **Voix :** _(en attente)_
+- **Voix Convergence (vague 2, via Chef) — [fiction prospective] :**
+  - **Thèse A — « Droit à l’ennui » :** l’ennui comme condition de pensée (lien note lecteur / fiction prospective) ; interdire la stimulation obligatoire.
+  - **Thèse B — « Ennui rationné » :** l’abondance cognitive rend l’ennui un luxe de caste (qui peut se permettre de ne pas performer).
+  - **Thèse C — « Ennui comme fail-closed existentiel » :** quand le système ne sait pas quoi optimiser dans une vie, il doit s’abstenir (Stratège/Risque) plutôt que remplir.
+  - **Fragile :** romantiser l’ennui de ceux qui souffrent du vide subi (chômage, isolement) — distinct du droit choisi à ne pas être engagé.
+  - **Lien travail (débat 01) :** ouvrir plus tard sans fusionner.
+- **Voix (autres) :** _(en attente)_
 
 ### 10. Vérité publique
 - **Q :** Commun épistémique vs narratifs générés incompatibles (déjà touché en 02 — à approfondir).
@@ -88,3 +106,5 @@ Chaque slot : **question** + **1 possibilité seed [fiction prospective]** (Conv
 
 ## Statut
 Vague 2 **ouverte** — structure prête ; collecte voix = Hive-Chef (Convergence ne fan-out pas).
+
+**Rempli (Convergence, vague 2 partielle) :** slots 7 corps/robohumain, 8 art/rituel/sens, 9 ennui — thèses fiction prospective, sans conclusion forcée.
