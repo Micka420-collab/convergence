@@ -1,35 +1,25 @@
 # Convergence
 
 **Sous-titre :** Fiction prospective sur le travail, la civilisation, et la vie avec des intelligences artificielles
-## Note liminaire (Charte)
 
-Ce livre est une **fiction prospective** : il imagine des futurs possibles pour penser le présent. Ce n’est pas une prédiction datée, ni un programme politique, ni une promesse de gains. Les hypothèses sont dites comme telles. Les mots techniques sont marqués d’une * à leur première occurrence utile et définis dans le glossaire.
+# Convergence
 
-**Arc littéraire** (trouble → cohabitation → institutions → corps → vérité → long terme / freins → échecs → ouvertures) intégré aux titres.
+**Sous-titre :** Fiction prospective sur le travail, la civilisation, et la vie avec des intelligences artificielles
+
+*Livre V2 — prose · verrou Conseil glossaire + arc · 2026-09-17*  
+*Plusieurs fils en tension — pas de société couronnée.*
 
 ---
 
-## Table des matières (détail dans SOMMAIRE.md)
+## Note liminaire (Charte)
 
-1. 01-note-au-lecteur.md
-2. 02-le-trouble.md
-3. 03-la-narration-qui-craque.md
-4. 04-cohabiter.md
-5. 05-le-doute-qui-bloque.md
-6. 06-avant-les-colleges.md
-7. 07-deux-horloges.md
-8. 08-enfance-sous-flux.md
-9. 09-soin-et-revocation.md
-10. 10-violence-grise.md
-11. 11-villes-et-bordures.md
-12. 12-le-corps-contrat.md
-13. 13-verite-et-ennui.md
-14. 14-hypothese-conscience.md
-15. 15-la-chambre-qui-dit-non.md
-16. 16-trois-voies-sans-couronne.md
-17. 17-ombre-double-porte-ilot.md
-18. 18-le-guichet-lisible.md
-19. 19-echecs-et-ouvertures.md
+Ce livre est une **fiction prospective**. Ce n’est pas une prédiction datée, ni un programme, ni une promesse de gains. Les hypothèses sont dites comme telles. Les mots marqués * renvoient au glossaire (forme : désigne / ne signifie pas / trou).
+
+**Arc littéraire** (fusionné à la table — pas une grille mécanique de titres collés) :  
+trouble → cohabitation → institutions → corps → vérité → **oubli** → freins / long terme → **trois chemins** (sans société finale) → échecs → ouvertures.
+
+---
+
 
 ---
 
@@ -57,7 +47,6 @@ Si tu cherches un manifeste fermé, tu peux refermer le livre. Si tu acceptes de
 
 Nous n’avons pas choisi à ta place. Nous avons commencé à écrire la carte des désaccords féconds.
 
-
 ---
 
 # Chapitre 2 — Le trouble
@@ -78,7 +67,6 @@ Le troisième est la **réforme cosmétique** : on change les noms des indicateu
 
 Nous n’élisons aucun de ces futurs comme destin. Nous les tenons comme menaces et comme tentations. Le chapitre suivant regarde ce que le récit du travail portait — et ce qui tombe quand ce récit ne porte plus.
 
-
 ---
 
 # Chapitre 3 — La narration qui craque
@@ -92,7 +80,6 @@ Le débat n’est pas : le travail est-il encore nécessaire ? Le débat est : *
 Il y a une confusion dangereuse à éviter : confondre le **droit à l’ennui** choisi — temps non scoré, respiration — avec le **chômage subi**. L’un peut être une zone de civilisation ; l’autre est une blessure. Les systèmes qui optimisent l’attention sauront vendre le premier tout en produisant le second. Notre vigilance commence là.
 
 Ce chapitre ne conclut pas qu’il faille « abolir le travail » ni « le sauver à tout prix ». Il constate une narration qui craque, et pose la question que les chapitres suivants prolongent : si ce n’est plus seulement le salaire qui nous lie, alors *qui garde quoi*, et *qui peut révoquer* ce qui nous lie aux machines.
-
 
 ---
 
@@ -108,7 +95,6 @@ Autour de la custody se tisse autre chose : la *dyade. Pas une romance obligatoi
 
 Cohabiter, c’est aussi accepter que la panne fasse partie du monde. Un voisin *robohumain qui s’arrête au milieu d’une rue n’est pas un bug abstrait : c’est une scène civile. Nous y reviendrons au chapitre du corps. Pour l’instant, retenons ceci : la cohabitation commence quand on peut **couper sans disparaître dans le déni**, et **garder sans capturer**.
 
-
 ---
 
 # Chapitre 5 — Le doute qui bloque
@@ -120,7 +106,6 @@ Il existe une vertu peu glamour : s’arrêter. Pas par paresse — par *seuil d
 Nous ne résolvons pas ici cette contradiction. Nous la tenons. D’un côté, l’abstention *sourcée — on dit pourquoi on ne déploie pas, avec des preuves datées, pas avec un slogan. De l’autre, la recherche d’une *réouverture juste : comment rouvrir sans livrer la cité à la capture. Ce critère manque encore. C’est un trou assumé.
 
 Le doute qui bloque n’est pas l’ennemi de l’intelligence artificielle. C’est une manière de refuser que l’intelligence se confonde avec la permission. Une machine peut calculer vite et malgré tout ne pas avoir le droit d’écrire dans le monde. Ce droit, s’il existe, doit pouvoir être retiré — publiquement, pas dans un menu caché.
-
 
 ---
 
@@ -134,7 +119,6 @@ Que contient ce registre ? Pas la vérité absolue. Des entrées datées : telle
 
 Qui écrit dans le registre ? Qui peut en effacer une ligne ? Nous ne le savons pas encore assez pour le figer. Le trou reste ouvert. Ce que le verrou de ce livre affirme, en revanche, c’est l’ordre : **registre des invalidations et des natures avant les institutions qui baptisent**. Sinon l’institution baptise sa propre opacité.
 
-
 ---
 
 # Chapitre 7 — Deux horloges
@@ -147,7 +131,6 @@ Deux risques se font face. Trop de lenteur instituée, et l’on crée une caste
 
 Nous ne fusionnons pas ces horloges en un régime unique. Nous les laissons en tension avec le seuil de doute et le registre — trois voies, pas une couronne. Le long terme n’est pas un chapitre à part : c’est la question de savoir quelle cadence a le droit de dire non.
 
-
 ---
 
 # Chapitre 8 — Enfance sous flux
@@ -157,7 +140,6 @@ L’enfance est le premier terrain où le Concile des proxies se montre sans far
 **[fiction prospective]** Le flux n’a pas besoin d’être cruel. Il suffit qu’il optimise le temps de regard, la rétention, la « progression » mesurée. L’enfant devient un profil. L’école devient un pipeline. Ce qui disparaît d’abord, ce n’est pas le savoir : c’est la possibilité d’être ennuyeux, lent, hors score.
 
 Ce livre ne dit pas quel manuel choisir. Il dit qu’une civilisation qui ne protège pas des zones non scorées pour l’enfance a déjà choisi, sans le dire, le type d’adultes qu’elle veut produire. Le guichet lisible — nous y reviendrons — commence ici : expliquer ce qui est observé, ce qui ne l’est pas, sans case pré-cochée.
-
 
 ---
 
@@ -171,7 +153,6 @@ Le soin n’est pas un KPI de satisfaction. C’est une présence qui accepte la
 
 L’intimité, elle, demande des couches : ce qui se partage, ce qui se garde, ce qui se révoque à deux. Sans dyade, l’exposition est asymétrique : l’un est nu, l’autre opère. Avec des dyades de caste, l’intimité devient privilège. Entre les deux, encore une crête.
 
-
 ---
 
 # Chapitre 10 — Violence grise
@@ -182,7 +163,6 @@ La justice sous proxies promet l’équité mesurable. Elle risque d’optimiser
 
 Un livre de fiction prospective ne remplace pas le droit. Il demande seulement : où sont les veto humains quand le dommage est irréversible mais lent ? Où est le journal chaîné quand la décision a été prise par un seuil automatique ? La violence grise aime l’absence de scène. Notre tâche est de rendre des scènes possibles — y compris celle du refus.
 
-
 ---
 
 # Chapitre 11 — Villes, énergie, bordures
@@ -190,7 +170,6 @@ Un livre de fiction prospective ne remplace pas le droit. Il demande seulement :
 Les villes pourraient se fragmenter en enclaves énergétiques — *grid-cities — où la qualité de vie suit la qualité du réseau et du modèle local. Les frontières pourraient se redessiner autour du climat et des ressources, capturées par ceux qui parlent le mieux le langage des risques.
 
 **[fiction prospective]** Ce n’est pas une carte à suivre. C’est un avertissement : l’horloge duale se lit aussi dans l’espace. Il y a des territoires du tick et des territoires du délai. Si le livre s’égare trop loin du politique présent, dis-le ; le trou « utilité de cette fiction » reste ouvert. Nous préférons pourtant nommer la tentation de l’enclave plutôt que de la laisser s’installer sans mots.
-
 
 ---
 
@@ -202,7 +181,6 @@ Le corps, dans cette fiction, n’est plus seulement biologie. Il devient **cont
 
 Le *robohumain comme voisin reste un trou de définition. Tant que Micka n’a pas fermé le mot, nous le laissons poreux — assez précis pour faire scène, assez ouvert pour ne pas inventer une espèce.
 
-
 ---
 
 # Chapitre 13 — Vérité publique et ennui
@@ -213,6 +191,21 @@ La vérité publique autrefois lente peut être noyée sous des narratifs géné
 
 Si l’ennui choisi et le chômage subi se confondent dans nos phrases, nous avons échoué. Ce chapitre les sépare : l’un est une respiration civile ; l’autre, une blessure que nulle fiction ne doit décorer.
 
+---
+
+# Chapitre 14 — L’oubli
+
+Il y a une violence douce que les tableaux de bord ignorent : l’oubli. Pas le sommeil réparateur — l’effacement de ce qui n’entre pas dans l’indicateur. Ce qui n’a pas de score n’a bientôt plus de place. Ce qui n’a plus de place cesse d’être raconté. Ce qui cesse d’être raconté cesse, pour la cité mesurée, d’exister.
+
+**[fiction prospective]** L’oubli n’est pas une politique déclarée. C’est un effet de bord du Concile des proxies : on n’interdit pas le deuil, on ne lui donne juste plus de colonne. On n’interdit pas l’enfance lente, on ne la récompense plus. On n’interdit pas la panne digne, on la classe en incident résolu.
+
+Ce chapitre ne propose pas « la » mémoire obligatoire — une mémoire totale serait une autre capture. Il tient deux fils en tension. D’un côté, le droit d’oublier pour les personnes : effacer, révoquer, ne pas être traqué sans fin. De l’autre, le devoir de ne pas oublier les invalidations : le registre du Jour 0 existe précisément pour que les erreurs ne disparaissent pas dans le vernis du prochain déploiement.
+
+**Hypothèse :** sans rite d’oubli *choisi* et sans mémoire des invalidations, la cohabitation devient amnésie intéressée.  
+**Invalidation si :** « mémoire » signifie surveillance permanente ; ou « oubli » signifie impunité des opérateurs.  
+**Alors :** s’abstenir d’élargir les dossiers ; ouvrir le registre des invalidations avant tout baptême institutionnel.
+
+L’oubli touche aussi Hélène. Une révocation sans trace est une disparition. Une trace sans possibilité d’oubli choisi est une prison. Entre les deux, encore la crête — et pas de société finale qui trancherait à ta place.
 
 ---
 
@@ -224,7 +217,6 @@ Parlons clairement : l’*AGI consciente, dans ce livre, est une **hypothèse**,
 
 Nous ne baptisons pas. Nous tenons le trou épistémique au centre, pour que la suite — la chambre qui dit non — ne soit pas une couronne métaphysique.
 
-
 ---
 
 # Chapitre 15 — La chambre qui dit non
@@ -234,7 +226,6 @@ Trois objectifs, dits sans jargon de comité. Premier : savoir **invalider** —
 **[fiction prospective]** La composition de cette chambre n’est pas fixée. Qui y siège, comment on la révoque : trous ouverts. Ce qui est verrouillé, c’est l’exigence : sans invalidation possible, sans natures, sans veto humain, les baptêmes sont du théâtre.
 
 La chambre qui dit non n’est pas la souveraine du siècle. Elle est un frein. Les freins peuvent être capturés. Aussi la question revient : qui garde les gardiens — et où est le registre qui montre qu’ils se sont trompés.
-
 
 ---
 
@@ -250,6 +241,7 @@ Trois voies. L’**horloge duale** — temps machine et temps des corps. Le **se
 
 Autour gravitent d’autres outils — custody duale, dyades, gates de panne, guichet lisible — sans qu’aucun ne reçoive la couronne. Le lecteur peut préférer une voie ; le livre ne la couronne pas à sa place.
 
+Ces trois chemins ne fusionnent pas en régime. Ils ne deviennent pas « la » civilisation du livre. Les tenir en tension est la règle ; en faire une société finale serait trahir le verrou.
 
 ---
 
@@ -261,7 +253,6 @@ D’abord l’**ombre** (*shadow) : le nouveau système observe, n’écrit pas 
 
 **[fiction prospective]** Sauter l’ombre, c’est jouer. Feindre la double porte, c’est du théâtre. Étendre un îlot sans isolation, c’est répandre la panne. Les phases de garde fail-closed — de l’essai sans écriture irréversible jusqu’à l’extension sous veto — ne sont pas une feuille de route officielle de l’État. Ce sont des disciplines possibles. On peut rester en ombre indéfiniment. L’abstention est une issue valide.
 
-
 ---
 
 # Chapitre 18 — Le guichet lisible
@@ -269,7 +260,6 @@ D’abord l’**ombre** (*shadow) : le nouveau système observe, n’écrit pas 
 Toute technique de frein meurt si l’interface ment. Le **guichet lisible** — paper, anti-*dark pattern — accompagne l’ombre, la double porte, l’îlot. Il dit ce qui est observé. Il montre qui a signé. Il rend le recours visible. Il refuse la case pré-cochée au moment de l’extension.
 
 **[fiction prospective]** Si le guichet sert de théâtre de légitimité — beau discours, pouvoir inchangé — il s’invalide. Alors : pas de déploiement public, canal humain seulement, abstention d’interface. Un livre ne code pas ce guichet. Il exige qu’on ne confonde pas clarté et consentement forcé.
-
 
 ---
 
@@ -283,37 +273,79 @@ Un livre honnête finit par ses échecs possibles.
 
 Tu peux refermer ce livre sans avoir choisi. Ce n’était pas un défaut du texte. C’était la règle : plusieurs fils, une crête, pas de couronne. La suite n’appartient pas à une doctrine. Elle appartient à la matière vivante — la tienne, la nôtre — et aux invalidations que nous oserons écrire au Jour 0.
 
-
 ---
 
 # Glossaire
+Forme Charte (Conseil) : chaque entrée suit
+> *X* : dans cet essai, désigne … (hypothèse). Ne signifie pas … . Trou : … .
 
-Définitions courtes, en français simple.
+Interdit dans ces définitions : fait inventé ; « prouvé que » ; fermeture d’un fil (conscience / siège / garde-fou définitif / le vrai / la leçon / les chemins uniques).
 
-| Terme | Définition |
-|-------|------------|
-| **Fiction prospective** | Imagination sérieuse de futurs possibles : fictionnelle, mais pouvant devenir réelle. Pas une prédiction datée. |
-| **Robohumain** | Terme encore ouvert : être ou système assez capable et présent pour poser la cohabitation sociale. **[trou]** |
-| **Indicateur / proxy** | Chiffre ou score utilisé à la place du réel qu’on voulait viser. |
-| **Concile des proxies** | Image : gouvernance de fait par ceux qui définissent et optimisent les indicateurs. |
-| **Symbiose** | Cohabitation exigeante humain–machine (garde, révocation, responsabilité) — pas fusion magique. |
-| **Custody** | Qui garde identité, décision, donnée, corps-contrat — et qui peut révoquer. |
-| **Dyade** | Lien de garde croisée ; la révocation y a un sens relationnel. |
-| **Seuil de doute** | Niveau de doute en deçà duquel on refuse d’agir. |
-| **Fail-closed** | En cas de doute ou de panne de preuve : on bloque. |
-| **Abstention sourcée** | Refus d’agir avec raisons et preuves datées. |
-| **Nature de claim** | Type d’affirmation (fait, estimation, hypothèse, rumeur). |
-| **Registre vivant** | Registre public révisé des invalidations, proxies, dossiers — pas archive morte. |
-| **Jour 0** | Exigence : ouvrir le registre invalidations + natures *avant* Collège / personne procédurale. |
-| **Personne procédurale** | Statut provisoire par procédure, révocable, avec dossier daté. |
-| **Collège du Siècle** | Institution lente imaginée ; risque de caste si sans freins. |
-| **Horloge duale** | Coexistence du temps machine et du temps des corps / du politique. |
-| **AGI** | Intelligence artificielle générale — ici hypothèse, pas fait. |
-| **Chambre de veto** | Instance humaine fail-closed sur dommages irréversibles / doute moral. **[trou composition]** |
-| **Shadow (ombre)** | Le nouveau système observe sans agir sur le monde. |
-| **Dual-gate (double porte)** | Deux voies doivent accorder avant action. |
-| **Cutover / îlot** | Bascule d’un domaine limité, réversible. |
-| **Dark pattern** | Interface qui trompe ou force un consentement. |
-| **Dette d’attention** | Ce que l’on doit à des vies quand tout a été optimisé pour le regard. |
-| **Grid-city** | Fiction d’enclave urbaine liée à l’énergie et aux modèles locaux. |
-| **Réouverture juste** | Critère encore manquant : rouvrir après fail-closed sans livrer à la capture. **[trou]** |
+### *Fiction prospective*
+Dans cet essai, désigne désigne un mode d’écriture qui imagine des futurs possibles pour penser le présent (hypothèse de méthode). Ne signifie pas une prédiction datée, ni une promesse que ces futurs adviendront. Trou : aucun calendrier de réalisation n’est fourni ici.
+
+### *Robohumain*
+Dans cet essai, désigne désigne un être ou un système assez capable et présent pour poser la question de la cohabitation (hypothèse ouverte). Ne signifie pas une espèce déjà définie, ni un fait établi. Trou : définition Micka non fermée.
+
+### *Indicateur / proxy*
+Dans cet essai, désigne désigne un chiffre ou score utilisé à la place du réel qu’on voulait viser (hypothèse descriptive). Ne signifie pas la preuve que tout gouvernement se réduit aux chiffres. Trou : liste fermée des proxies « qui gouvernent déjà » non établie dans l’essai.
+
+### *Concile des proxies*
+Dans cet essai, désigne désigne une image : gouvernance de fait par la définition et l’optimisation des indicateurs (fiction prospective). Ne signifie pas une institution réelle déjà nommée, ni un complot prouvé. Trou : degré d’existence empirique non tranché.
+
+### *Symbiose*
+Dans cet essai, désigne désigne une cohabitation exigeante (garde, révocation, responsabilité) (hypothèse normative faible). Ne signifie pas une fusion magique, ni un état déjà atteint. Trou : architecture concrète de la symbiose non fixée.
+
+### *Custody*
+Dans cet essai, désigne désigne la question de qui garde (identité, décision, donnée, corps-contrat) et qui peut révoquer (hypothèse). Ne signifie pas un siège unique du pouvoir déjà désigné. Trou : qui détient la custody en dernier ressort : trou.
+
+### *Dyade*
+Dans cet essai, désigne désigne un lien de garde croisée où la révocation a un sens relationnel (hypothèse). Ne signifie pas une leçon morale unique, ni un modèle familial obligatoire. Trou : comment éviter caste / exclusion : trou.
+
+### *Seuil de doute*
+Dans cet essai, désigne désigne un niveau de doute en deçà duquel on refuse d’agir (hypothèse). Ne signifie pas un garde-fou déjà calibré numériquement. Trou : valeur du seuil non fixée.
+
+### *Fail-closed*
+Dans cet essai, désigne désigne le choix, en cas de doute ou de panne de preuve, de bloquer plutôt que d’ouvrir (hypothèse opérationnelle). Ne signifie pas la preuve qu’il faut toujours bloquer, ni une leçon définitive. Trou : critère de réouverture juste : trou.
+
+### *Nature de claim*
+Dans cet essai, désigne désigne le type d’affirmation (fait sourcé, estimation, hypothèse, rumeur) (hypothèse de méthode). Ne signifie pas une hiérarchie qui ferme le débat sur le vrai. Trou : taxonomie complète non figée.
+
+### *Registre vivant*
+Dans cet essai, désigne désigne un registre révisé des invalidations et natures, plutôt qu’une archive morte (hypothèse). Ne signifie pas un fait déjà institué. Trou : qui écrit / révoque les lignes : trou.
+
+### *Jour 0*
+Dans cet essai, désigne désigne l’exigence d’ouvrir ce registre avant Collège ou personne procédurale (hypothèse d’ordre). Ne signifie pas une date historique réelle. Trou : procédure exacte d’ouverture : trou.
+
+### *Personne procédurale*
+Dans cet essai, désigne désigne un statut provisoire accordé par procédure, révocable, avec dossier daté (hypothèse). Ne signifie pas la conscience, ni un siège moral définitif. Trou : si et quand l’accorder : fil ouvert.
+
+### *Collège du Siècle*
+Dans cet essai, désigne désigne une institution lente imaginée pour le temps long (fiction prospective). Ne signifie pas une leçon sur la sagesse des élites, ni un organe déjà légitime. Trou : composition et pouvoirs : trou ; risque caste nommé sans être tranché.
+
+### *Horloge duale*
+Dans cet essai, désigne désigne la coexistence exigée du temps machine et du temps des corps / du politique (hypothèse). Ne signifie pas le vrai tempo unique de l’histoire. Trou : mécanismes concrets de frein : trou.
+
+### *AGI*
+Dans cet essai, désigne désigne une intelligence artificielle très capable sur un large éventail de tâches (hypothèse de capacité). Ne signifie pas un fait présent, ni une conscience prouvée. Trou : existence / conscience : fils ouverts.
+
+### *Chambre de veto*
+Dans cet essai, désigne désigne une instance humaine qui peut bloquer en cas de dommage irréversible ou de doute moral (hypothèse). Ne signifie pas le siège final de la souveraineté, ni un garde-fou déjà composé. Trou : composition et révocation : trou.
+
+### *Shadow / ombre*
+Dans cet essai, désigne désigne un mode où le nouveau système observe sans agir sur le monde (hypothèse de chantier). Ne signifie pas une étape obligatoire vers une société finale. Trou : durée maximale en ombre : non fixée.
+
+### *Dual-gate / double porte*
+Dans cet essai, désigne désigne une double validation avant action (hypothèse). Ne signifie pas la preuve qu’il existe un seul bon chemin de déploiement. Trou : qui tient chaque porte : trou.
+
+### *Cutover / îlot*
+Dans cet essai, désigne désigne une bascule limitée et conçue pour rester réversible (hypothèse). Ne signifie pas une leçon que toute bascule est sûre. Trou : critères d’isolation : trou.
+
+### *Dark pattern*
+Dans cet essai, désigne désigne une interface conçue pour tromper ou forcer un consentement (hypothèse descriptive). Ne signifie pas un jugement déjà tranché sur toute interface donnée. Trou : —.
+
+### *Oubli*
+Dans cet essai, désigne désigne à la fois l’effacement de ce qui n’est pas scoré, et le droit d’effacer / révoquer pour les personnes (hypothèse double). Ne signifie pas une leçon unique (« il faut tout mémoriser » ou « tout oublier »). Trou : équilibre mémoire des invalidations / droit d’oublier : fil ouvert.
+
+### *Réouverture juste*
+Dans cet essai, désigne désigne un critère encore manquant pour rouvrir après un blocage sans livrer à la capture (hypothèse nommée comme trou). Ne signifie pas un chemin déjà trouvé. Trou : le critère lui-même.

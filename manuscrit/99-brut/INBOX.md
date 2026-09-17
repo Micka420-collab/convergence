@@ -81,3 +81,6 @@ Livré = notes pas livre. Exigence prose continue, TdM, glossaire *, matière fo
 
 ## 2026-09-17 — via Hive-Chef — V2 ch.2→fin
 GO immédiat prose complète + arc littéraire Stratège. Livrable livre/V2/.
+
+## 2026-09-17 — via Hive-Chef — Verrou Conseil glossaire + oubli
+Glossaire STRICT Charte ; arc Stratège fusionné TdM ; ch. oubli + trois chemins multi-fils. Pas densifier sans consigne.

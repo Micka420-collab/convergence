@@ -9,3 +9,5 @@ Trois voies. L’**horloge duale** — temps machine et temps des corps. Le **se
 **Alors :** s’abstenir, rester en ombre, inventaire paper seulement.
 
 Autour gravitent d’autres outils — custody duale, dyades, gates de panne, guichet lisible — sans qu’aucun ne reçoive la couronne. Le lecteur peut préférer une voie ; le livre ne la couronne pas à sa place.
+
+Ces trois chemins ne fusionnent pas en régime. Ils ne deviennent pas « la » civilisation du livre. Les tenir en tension est la règle ; en faire une société finale serait trahir le verrou.
