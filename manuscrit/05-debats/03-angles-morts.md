@@ -5,6 +5,8 @@
 > **Statut :** slots remplis Vague 2 (voix Chef) + seed Convergence sur 7–9 ; annexe Eng ; AGI → fiche 04.  
 > **Pas** de conclusion forcée ; **pas** de prose validée Micka.
 
+> **Décision Micka (2026-09-17) :** tension multi-fils **sans conclure** — cette fiche reste juxtaposée aux autres ; pas de fil unique / synthèse fermée / société choisie.
+
 ## Lien
 Prolonge `02-societe-pensee-par-les-ia.md`. Annexe corps : `03-annexe-maintenance-panne-robohumaine.md`. AGI consciente : `04-agi-consciente.md`.
 

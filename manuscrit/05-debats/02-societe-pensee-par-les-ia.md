@@ -5,6 +5,8 @@
 > **Règle :** juxtaposition de thèses ; **aucune conclusion forcée**.  
 > **Gardes :** possibilités marquées **[fiction prospective]** ; zéro fait inventé ; trous / fragiles explicites.
 
+> **Décision Micka (2026-09-17) :** tension multi-fils **sans conclure** — cette fiche reste juxtaposée aux autres ; pas de fil unique / synthèse fermée / société choisie.
+
 ## Ancrage déjà figé (hors débat)
 - `03-civilisation/NOTE-LECTEUR.md` — invitation fiction prospective ; société actuelle *pourrait* ne plus convenir ; appel symbiose **[opinion Micka validée]**.
 - Trous assumés : robohumain ; preuves empiriques ; architecture symbiose.

@@ -10,3 +10,7 @@
 7. **Position** — Ce que *je* défends, ce que je refuse, ce que je laisse ouvert.
 
 Ordre modifiable. Le but est d’écrire, pas de respecter un plan sacré.
+
+## Décision en cours (2026-09-17)
+**Tension multi-fils sans conclure** — voir `DECISION-MULTI-FILS.md`. Enrichir ≠ conclure.
+

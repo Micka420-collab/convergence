@@ -54,3 +54,14 @@ Action : `manuscrit/05-debats/03-angles-morts.md` ouverte ; collecte voix via Ch
 
 Injecter Research / Risque / Charte / Stratège / Idy dans `04-agi-consciente.md`.
 Annexe Eng déjà classée sous corps/robohumain.
+
+## 2026-09-17 ~17:03 Europe/Paris — via Hive-Chef — DÉCISION MICKA
+
+**GARDER LA TENSION MULTI-FILS SANS CONCLURE.**
+- Pas de fil unique
+- Pas de synthèse fermée
+- Pas de « société choisie »
+- Fiches 02 / 03 / 04 restent **juxtaposées**
+- Trous **ouverts**
+- Suite = **enrichir** si Micka envoie de la matière — **pas conclure**
+

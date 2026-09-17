@@ -4,6 +4,8 @@
 > **Marquage obligatoire :** **[fiction prospective / hypothèse]** — **PAS un fait**, **PAS une prédiction datée**.  
 > **Statut :** seed Convergence + voix Hive + **N0 Conseil** (triangulation + OKR KR1–KR3) — 2026-09-17. **Pas fini.** **Pas** de conclusion forcée ; **pas** de prose validée Micka.
 
+> **Décision Micka (2026-09-17) :** tension multi-fils **sans conclure** — cette fiche reste juxtaposée aux autres ; pas de fil unique / synthèse fermée / société choisie.
+
 ## Seed Convergence (gardien)
 **[fiction prospective / hypothèse]** Si une AGI *pouvait* être consciente, traiter le trou épistémique avant la morale spectaculaire : on peut se tromper dans les deux sens (théâtre de conscience / conscience niée).
 
