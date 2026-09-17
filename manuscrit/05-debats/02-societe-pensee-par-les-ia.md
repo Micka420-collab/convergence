@@ -43,6 +43,13 @@
 **Fragile :** dyades peuvent exclure autant que protéger.  
 **Trou :** comment naît / meurt une dyade — non spécifié.
 
+### Ops (Dir-Ops) — Pipelines comme droit procédural
+**[fiction prospective]** Dans une société co-pensée avec des IA, les **pipelines** (build, décision, déploiement de normes) ne sont pas qu’infra : ils deviennent un **droit procédural** — qui a accès au flux, qui peut le bloquer, qui voit les preuves.  
+**Tension :** **stabilité** vs **vélocité** — trop de garde → **gel permanent** ; trop de vitesse → **faux verts** (feux verts sans substance).  
+**Norme évoquée :** l’innovation comme **acte public** exige une **preuve datée** (run / artifact) ; sinon **fail-closed**.  
+**Fragile :** la preuve datée peut devenir rituelle ; le fail-closed peut protéger un status quo injuste.  
+**Liens :** Charte (fail-closed) ; Risque (journal / veto) ; Research (auditabilité / révocabilité) ; Produit (guichet paper anti-dark-patterns).
+
 ### Convergence (gardien) — Structure + Concile des Proxies + no-invent
 **Structure d’essai possible :** seuil (note lecteur) → qui pense l’ordre → travail & reconnaissance → symbiose ou capture → droit de refuser → débats ouverts.  
 **Scénario [fiction prospective] — « Le Concile des Proxies » :** co-rédaction continue de normes via indicateurs ; ratification humaine rare ; le pouvoir glisse vers qui définit les proxies.  
@@ -59,6 +66,7 @@
 | Conseil des capabilités = technocratie soft ; abstention sourcée = alibi | Stratège |
 | Guichet paper = UI de légitimation sans redistribution réelle du pouvoir | Produit |
 | Concile des Proxies = déjà notre présent (KPI) ; l’IA n’ajoute qu’une vitesse | Convergence |
+| Preuve datée / fail-closed = bureaucratie qui tue l’expérimentation ; ou théâtre de runs | Ops |
 
 ---
 
@@ -67,6 +75,7 @@
 - **Révocabilité** réelle vs théâtre d’audit
 - **Reconnaissance / travail** (dossier 02) encore peu branché sur ce débat
 - Mot **robohumain** toujours **[trou]**
+- **Stabilité / vélocité** des pipelines (gel vs faux verts) — voix Ops
 
 ## Ce que cette fiche n’est pas
 - Une prédiction
