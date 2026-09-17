@@ -69,3 +69,6 @@ Annexe Eng déjà classée sous corps/robohumain.
 
 Produire plan + première version chapitres (fiction prospective, multi-fils sans conclure).
 Livrable : dossier `livre/`.
+
+## 2026-09-17 — via Hive-Chef — Enrichissement VI packages
+Stratège A/B/C + R1–R5 + 0–5 ans ; Charte formule ; Risque 0–4 ; Ops shadow→dual-gate→îlot ; Research dual-track 3 étapes ; Produit guichet 1–4 ; Idy *La révocation d’Hélène*. Multi-fils.
