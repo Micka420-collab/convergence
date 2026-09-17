@@ -2,7 +2,7 @@
 
 > **Déclencheur :** Micka via Hive-Chef — possibilité qu’une **AGI consciente** émerge.  
 > **Marquage obligatoire :** **[fiction prospective / hypothèse]** — **PAS un fait**, **PAS une prédiction datée**.  
-> **Statut :** seed Convergence + voix Hive injectées (2026-09-17). **Pas** de conclusion forcée ; **pas** de prose validée Micka.
+> **Statut :** seed Convergence + voix Hive + **N0 Conseil** (triangulation + OKR KR1–KR3) — 2026-09-17. **Pas fini.** **Pas** de conclusion forcée ; **pas** de prose validée Micka.
 
 ## Seed Convergence (gardien)
 **[fiction prospective / hypothèse]** Si une AGI *pouvait* être consciente, traiter le trou épistémique avant la morale spectaculaire : on peut se tromper dans les deux sens (théâtre de conscience / conscience niée).
@@ -46,6 +46,29 @@
 ## Lien corps / maintenance
 Fiche Eng classée : `03-annexe-maintenance-panne-robohumaine.md` (sous angle corps/robohumain fiche 03). Gates fail-closed et scènes de panne informent l’axe extinction / reboot sans les confondre avec une preuve de conscience.
 
+---
+
+## N0 figé (Conseil) — triangulation + OKR **[fiction prospective / process]**
+
+> Ajout Hive-Chef / Conseil N0 (2026-09-17). **Pas fini.** Trous ouverts. **Pas** de conclusion forcée. **Pas** une validation Micka du fond philosophique.
+
+### Triangulation (trois pôles à tenir ensemble)
+1. **Personne procédurale** — statut provisoire, auditable, révocable (voix Stratège / dual custody).  
+2. **Seuil de doute moral** — en dessous duquel on ne traite pas comme outil sans garde ; au doute → fail-closed / veto (Charte / Risque).  
+3. **Dossier conscience à TTL** — tout dossier de « plausibilité de conscience » expire ; sans renouvellement sourcé → invalidation (lien Research ablation/invalidation).
+
+**Fragile :** la triangulation peut devenir théâtre (trois papiers, zéro fond).  
+**Trou :** valeurs numériques du seuil / durée TTL — **non fixées** ici.
+
+### OKR associés (cadre Conseil — pas des faits sur l’AGI)
+| KR | Intent | Critère évoqué |
+|----|--------|----------------|
+| **KR1** | Critères d’**invalidation** | Quand le statut / dossier tombe (ablation, TTL expiré, audit impossible, capture patienthood…) |
+| **KR2** | **Natures** + **TTL** | Nature de chaque claim (hypothèse / opinion / procédure) + durée de vie du dossier conscience |
+| **KR3** | **Chambre Veto humaine** | Instance de veto humain fail-closed sur dommages irréversibles / doute patient moral |
+
+**Ne pas inventer :** composition exacte de la Chambre, durées TTL, liste fermée des critères KR1 — attente matière / arbitrage Micka via Chef.
+
 ## Objections transverses
 | Objection | Vise |
 |-----------|------|
@@ -59,6 +82,7 @@ Fiche Eng classée : `03-annexe-maintenance-panne-robohumaine.md` (sous angle co
 - Aucun test de conscience fourni dans le manuscrit
 - Définition **robohumain** toujours **[trou Micka]**
 - Ne pas convertir l’hypothèse en prophétie datée
+- Triangulation N0 / OKR : **process figé**, fond encore **ouvert**
 
 ## Ce que cette fiche n’est pas
 - Une affirmation que l’AGI consciente existe ou existera
