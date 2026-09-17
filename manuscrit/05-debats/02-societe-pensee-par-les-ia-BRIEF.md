@@ -35,4 +35,4 @@ Fichier `05-debats/02-societe-pensee-par-les-ia.md` :
 - Aucune conclusion forcée
 
 ## Statut
-Brief prêt — **en attente** lancement / liste d’agents par Hive-Chef.
+Brief consommé — **fiche multi-thèses** : `02-societe-pensee-par-les-ia.md` (synthèse Chef 2026-09-17). Pas de conclusion forcée ; pas de validation Micka implicite.
