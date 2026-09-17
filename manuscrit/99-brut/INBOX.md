@@ -44,3 +44,9 @@ Micka : débat non terminé. Ouvrir fiche **03 angles morts** (ou extension 02).
 Priorités : enfance, soin/mort, intimité, justice, habitat/énergie, frontières, quotidien corps/robohumain, art/sens, ennui, vérité publique, effondrements.
 Action : `manuscrit/05-debats/03-angles-morts.md` ouverte ; collecte voix via Chef.
 
+## 2026-09-17 — via Hive-Chef — Vague 2 voix + AGI consciente
+
+- Remplir fiche 03 avec voix Produit/Risque/Research/Stratège/Idy/Charte/Ops/Eng.
+- Annexe Eng « Maintenance & panne robohumaine » intégrée.
+- Nouvel angle Micka : possibilité **AGI consciente** → fiche 04 (hypothèse, pas fait).
+
