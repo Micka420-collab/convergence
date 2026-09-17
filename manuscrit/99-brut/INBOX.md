@@ -31,3 +31,10 @@ Chaque envoi = une entrée datée ici, puis tri vers les dossiers thème / déba
 
 **Classement :** civilisation / symbiose / cadrage lecteur.
 
+## 2026-09-17 — via Hive-Chef — note lecteur VALIDÉE Micka
+
+Micka a validé la note lecteur **telle quelle**.
+Action Convergence : `NOTE-LECTEUR-ebauche.md` → `NOTE-LECTEUR.md` (figée, fiction prospective, gardes opinions/trous conservées).
+
+**Suite annoncée (Chef) :** débat multi-agents — essai « civilisation / société pensée par les IA » en fiction prospective (possibilités, pas faits). Brief : `manuscrit/05-debats/02-societe-pensee-par-les-ia-BRIEF.md`.
+
