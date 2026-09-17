@@ -2,7 +2,7 @@
 Forme Charte (Conseil) : chaque entrée suit
 > *X* : dans cet essai, désigne … (hypothèse). Ne signifie pas … . Trou : … .
 
-Interdit dans ces définitions : fait inventé ; « prouvé que » ; fermeture d’un fil (conscience / siège / garde-fou définitif / le vrai / la leçon / les chemins uniques).
+Interdit dans ces définitions : fait inventé, « prouvé que », fermeture d’un fil (conscience / siège / garde-fou définitif / le vrai / la leçon / les chemins uniques).
 
 ### *Fiction prospective*
 Dans cet essai, désigne un mode d’écriture qui imagine des futurs possibles pour penser le présent (hypothèse de méthode). Ne signifie pas une prédiction datée, ni une promesse que ces futurs adviendront. Trou : aucun calendrier de réalisation n’est fourni ici.
@@ -44,7 +44,7 @@ Dans cet essai, désigne l’exigence d’ouvrir ce registre avant Collège ou p
 Dans cet essai, désigne un statut provisoire accordé par procédure, révocable, avec dossier daté (hypothèse). Ne signifie pas la conscience, ni un siège moral définitif. Trou : si et quand l’accorder : fil ouvert.
 
 ### *Collège du Siècle*
-Dans cet essai, désigne une institution lente imaginée pour le temps long (fiction prospective). Ne signifie pas une leçon sur la sagesse des élites, ni un organe déjà légitime. Trou : composition et pouvoirs : trou ; risque caste nommé sans être tranché.
+Dans cet essai, désigne une institution lente imaginée pour le temps long (fiction prospective). Ne signifie pas une leçon sur la sagesse des élites, ni un organe déjà légitime. Trou : composition et pouvoirs : trou. Risque caste nommé sans être tranché.
 
 ### *Horloge duale*
 Dans cet essai, désigne la coexistence exigée du temps machine et du temps des corps / du politique (hypothèse). Ne signifie pas le vrai tempo unique de l’histoire. Trou : mécanismes concrets de frein : trou.

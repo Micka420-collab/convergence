@@ -55,5 +55,4 @@ Le chemin du livre : le trouble, la cohabitation, les institutions, les corps, l
 20. [Échecs possibles et ouvertures](20-echecs-et-ouvertures.md)
 
 ### Fin
-- [Glossaire](GLOSSAIRE.md) — forme Charte stricte
-- [Livre complet](LIVRE-COMPLET.md)
+En fin d’ouvrage : le [Glossaire](GLOSSAIRE.md) (forme Charte : désigne, ne signifie pas, trou) et le [Livre complet](LIVRE-COMPLET.md) concaténé.
