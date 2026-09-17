@@ -50,3 +50,7 @@ Action : `manuscrit/05-debats/03-angles-morts.md` ouverte ; collecte voix via Ch
 - Annexe Eng « Maintenance & panne robohumaine » intégrée.
 - Nouvel angle Micka : possibilité **AGI consciente** → fiche 04 (hypothèse, pas fait).
 
+## 2026-09-17 — via Hive-Chef — voix AGI dans fiche 04
+
+Injecter Research / Risque / Charte / Stratège / Idy dans `04-agi-consciente.md`.
+Annexe Eng déjà classée sous corps/robohumain.

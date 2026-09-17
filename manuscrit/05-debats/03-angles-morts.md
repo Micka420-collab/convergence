@@ -42,7 +42,7 @@ Prolonge `02-societe-pensee-par-les-ia.md`. Annexe corps : `03-annexe-maintenanc
 ### 7. Quotidien corps / robohumain — **Eng** + Convergence
 **[fiction prospective]** Eng : **corps = contrat de maintenance** ; interfaces-adaptateur ; **dépendance circulaire** ; scènes de panne (voir **annexe**).  
 Convergence : Corps horodatés / Peau duale / Robohumain voisin — **[trou]** définition Micka.  
-**Annexe :** `03-annexe-maintenance-panne-robohumaine.md`.
+**Annexe :** `03-annexe-maintenance-panne-robohumaine.md` — **classée** sous corps/robohumain (ordre Chef / Dir-Eng).
 
 ### 8. Art / rituel / sens — Convergence (+ ouvert)
 **[fiction prospective]** Parts non scorées / Rituel de preuve inverse / Sens comme custody.  
