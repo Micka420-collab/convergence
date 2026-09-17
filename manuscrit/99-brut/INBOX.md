@@ -38,3 +38,9 @@ Action Convergence : `NOTE-LECTEUR-ebauche.md` → `NOTE-LECTEUR.md` (figée, fi
 
 **Suite annoncée (Chef) :** débat multi-agents — essai « civilisation / société pensée par les IA » en fiction prospective (possibilités, pas faits). Brief : `manuscrit/05-debats/02-societe-pensee-par-les-ia-BRIEF.md`.
 
+## 2026-09-17 — via Hive-Chef — vague 2 « on n’a PAS fini »
+
+Micka : débat non terminé. Ouvrir fiche **03 angles morts** (ou extension 02).
+Priorités : enfance, soin/mort, intimité, justice, habitat/énergie, frontières, quotidien corps/robohumain, art/sens, ennui, vérité publique, effondrements.
+Action : `manuscrit/05-debats/03-angles-morts.md` ouverte ; collecte voix via Chef.
+

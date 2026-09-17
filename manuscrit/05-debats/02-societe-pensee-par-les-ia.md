@@ -85,3 +85,5 @@
 
 ## Suite possible (process, pas contenu)
 Attendre matière ou arbitrage Micka via Chef ; éventuellement ouvrir débat 01 (travail) en lien ; ne pas fusionner les thèses en une seule doctrine.
+
+**Vague 2 :** angles morts → `03-angles-morts.md` (enfance, soin/mort, intimité, justice, habitat/énergie, frontières, corps/robohumain, art/sens, ennui, vérité publique, effondrements).
