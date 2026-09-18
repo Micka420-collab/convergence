@@ -2,6 +2,10 @@
 
 **Sous-titre :** Fiction prospective sur le travail, la civilisation, et la vie avec des intelligences artificielles
 
+# Convergence
+
+**Sous-titre :** Fiction prospective sur le travail, la civilisation, et la vie avec des intelligences artificielles
+
 *Fiction prospective — plusieurs fils, aucune société couronnée.*
 
 ---
@@ -13,49 +17,6 @@ Ce livre imagine des futurs possibles pour penser le présent. Ce n’est pas un
 Le chemin du livre : le trouble, la cohabitation, les institutions, les corps, la vérité, l’oubli, les freins, trois chemins tenus ensemble sans en élire un, puis les échecs et les ouvertures.
 
 ---
-
-## Table des matières
-
-### Ouverture
-1. [Note au lecteur](01-note-au-lecteur.md)
-
-### Trouble
-2. [Le trouble](02-le-trouble.md)
-3. [La narration qui craque](03-la-narration-qui-craque.md)
-
-### Cohabitation
-4. [Cohabiter](04-cohabiter.md)
-5. [Le doute qui bloque](05-le-doute-qui-bloque.md)
-
-### Institutions
-6. [Avant les collèges](06-avant-les-colleges.md)
-7. [Deux horloges](07-deux-horloges.md)
-
-### Corps et vie
-8. [Enfance sous flux](08-enfance-sous-flux.md)
-9. [Soin, intimité, révocation](09-soin-et-revocation.md)
-10. [Violence grise](10-violence-grise.md)
-11. [Villes, énergie, bordures](11-villes-et-bordures.md)
-12. [Le corps-contrat](12-le-corps-contrat.md)
-
-### Vérité et oubli
-13. [Vérité publique et ennui](13-verite-et-ennui.md)
-14. [L’oubli](14-loubli.md)
-
-### Conscience et freins
-15. [L’hypothèse de la conscience](15-hypothese-conscience.md)
-16. [La chambre qui dit non](16-la-chambre-qui-dit-non.md)
-
-### Trois chemins (mise en place — multi-fils)
-17. [Trois voies sans couronne](17-trois-voies-sans-couronne.md)
-18. [Ombre, double porte, îlot](18-ombre-double-porte-ilot.md)
-19. [Le guichet lisible](19-le-guichet-lisible.md)
-
-### Échecs et ouvertures
-20. [Échecs possibles et ouvertures](20-echecs-et-ouvertures.md)
-
-### Fin
-[Glossaire](GLOSSAIRE.md)
 
 
 ---
@@ -78,7 +39,6 @@ Quand une idée est une hypothèse, on le dit. Quand un mot manque (robohumain, 
 
 Si tu veux un manifeste fermé, tu peux refermer. Si tu acceptes plusieurs vérités partielles à la fois, tourne la page. On n’a pas choisi à ta place. On a commencé la carte des désaccords qui valent le coup.
 
-
 ---
 
 # Chapitre 2 — Le trouble
@@ -99,7 +59,6 @@ Le troisième est la **réforme cosmétique** : on change les noms des indicateu
 
 Nous n’élisons aucun de ces futurs comme destin. Nous les tenons comme menaces et comme tentations. Le chapitre suivant regarde ce que le récit du travail portait, et ce qui tombe quand ce récit ne porte plus.
 
-
 ---
 
 # Chapitre 3 — La narration qui craque
@@ -113,7 +72,6 @@ Le débat n’est pas : le travail est-il encore nécessaire ? Le débat est : *
 Il y a une confusion dangereuse à éviter : confondre le **droit à l’ennui** choisi (temps non scoré, respiration) avec le **chômage subi**. L’un peut être une zone de civilisation. L’autre est une blessure. Les systèmes qui optimisent l’attention sauront vendre le premier tout en produisant le second. Notre vigilance commence là.
 
 Ce chapitre ne conclut pas qu’il faille « abolir le travail » ni « le sauver à tout prix ». Il constate une narration qui craque, et pose la question que les chapitres suivants prolongent : si ce n’est plus seulement le salaire qui nous lie, alors *qui garde quoi*, et *qui peut révoquer* ce qui nous lie aux machines.
-
 
 ---
 
@@ -129,7 +87,6 @@ Autour de la custody se tisse autre chose : la *dyade. Pas une romance obligatoi
 
 Cohabiter, c’est aussi accepter que la panne fasse partie du monde. Un voisin *robohumain qui s’arrête au milieu d’une rue n’est pas un bug abstrait : c’est une scène civile. Nous y reviendrons au chapitre du corps. Pour l’instant, retenons ceci : la cohabitation commence quand on peut **couper sans disparaître dans le déni**, et **garder sans capturer**.
 
-
 ---
 
 # Chapitre 5 — Le doute qui bloque
@@ -141,7 +98,6 @@ Appliqué à une civilisation qui accélère, ce principe devient politique. Il 
 Nous ne résolvons pas ici cette contradiction. Nous la tenons. D’un côté, l’abstention *sourcée : on dit pourquoi on ne déploie pas, avec des preuves datées, pas avec un slogan. De l’autre, la recherche d’une *réouverture juste : comment rouvrir sans livrer la cité à la capture. Ce critère manque encore. C’est un trou assumé.
 
 Le doute qui bloque n’est pas l’ennemi de l’intelligence artificielle. C’est une manière de refuser que l’intelligence se confonde avec la permission. Une machine peut calculer vite et malgré tout ne pas avoir le droit d’écrire dans le monde. Ce droit, s’il existe, doit pouvoir être retiré, publiquement, pas dans un menu caché.
-
 
 ---
 
@@ -155,7 +111,6 @@ Sans ce Jour 0, le Collège devient vite une caste lente qui parle au nom du si�
 
 Qui écrit dans le registre ? Qui peut en effacer une ligne ? Nous ne le savons pas encore assez pour le figer. Le trou reste ouvert. Ce que le verrou de ce livre affirme, en revanche, c’est l’ordre : **registre des invalidations et des natures avant les institutions qui baptisent**. Sinon l’institution baptise sa propre opacité.
 
-
 ---
 
 # Chapitre 7 — Deux horloges
@@ -167,7 +122,6 @@ L’*horloge duale n’est pas un gadget poétique. C’est l’exigence que le 
 Deux risques se font face. Trop de lenteur instituée, et l’on crée une caste qui appelle patience ce qui est privilège. Trop d’accélération sans frein, et l’on crée une féodalité cognitive où seuls ceux qui parlent le langage des proxies gouvernent.
 
 Nous ne fusionnons pas ces horloges en un régime unique. Nous les laissons en tension avec le seuil de doute et le registre : trois voies, pas une couronne. Le long terme n’est pas un chapitre à part : c’est la question de savoir quelle cadence a le droit de dire non.
-
 
 ---
 
@@ -188,7 +142,6 @@ Les tensions se croisent sans vainqueur. D’un côté, le carnet paper, anti-pi
 L’horloge duale commence tôt. Le tick des plateformes contre le délai des corps qui grandissent. Si l’une seule gouverne, le politique n’arrive qu’après coup, pour ratifier des adultes déjà formatés. Nous préférons tenir la tension (carnet contre feed, présence contre pipeline) plutôt que d’élire une pédagogie comme on élit un produit. Les trous restent ouverts : où exactement s’arrête l’observation légitime, qui arbitre quand parents et systèmes divergent, comment empêcher le carnet de devenir costume. Tant que ces trous ne sont pas refermés par une matière vécue, le livre refuse de conclure. Il laisse l’enfance comme un terrain de désaccords féconds, non comme un marché déjà gagné.
 
 Et si tu écoutes ce chapitre à voix haute, tu entendras peut-être le bruit ordinaire d’une récréation sans micro-progression. Des enfants qui courent. Des disputes. Un instant où rien n’est scorifié. Ce bruit n’est pas une doctrine. C’est un trou volontaire dans le flux. S’il devient vite un décor pour carte postale de caste (cour privée pour ceux qui peuvent payer le silence), la scène s’invalide. Si l’on y force une « progression civique » mesurée à la seconde, elle s’invalide aussi. Entre les deux, on peut encore marcher. Sans promesse de gains. Sans société couronnée. Seulement l’exigence que l’attention d’un enfant ne soit pas traitée comme un minerai.
-
 
 ---
 
@@ -212,7 +165,6 @@ Ce chapitre ne promet pas que les rites sauveront qui que ce soit. Il ne promet 
 
 Si tu lis ces pages à voix haute, tu peux sentir le poids d’une phrase simple : « c’est fini. » Pas « session close ». Pas « décommission réussie ». Fini. Avec un nom. Avec une date. Avec le droit, pour Hélène, de contester le résumé. Sans cela, le soin n’est qu’une maintenance polie. Avec cela seulement, sans procédure qui a des dents, le récit peut mentir aussi. La lisière reste étroite. On y marche quand même, sans gains promis, sans couronne, avec le trou volontaire sur ce qu’Hélène est vraiment.
 
-
 ---
 
 # Chapitre 10 — Violence grise
@@ -232,7 +184,6 @@ Une autre scène. Trois heures du matin. Un seuil automatique coupe un accès. P
 Ce chapitre ne remplace pas le droit positif. Il ne dit pas quelles peines, quels tribunaux, quelles polices. Il demande seulement : où sont les veto humains quand le dommage est irréversible mais lent ? Où est le journal quand la décision a été prise par un seuil automatique à trois heures du matin ? Qui paie le coût de l’abstention quand s’abstenir protège les puissants ? Qui paie le coût de l’action quand agir écrase les faibles sans laisser de scène ? Nous n’avons pas de société finale à proposer en réponse. Nous avons une exigence de scènes, y compris la scène du « non », et le refus de laisser la violence grise se faire passer pour de la neutralité mesurable.
 
 Tant que la composition des chambres, le seuil du doute moral, et la réouverture juste restent ouverts, le livre refuse de conclure. Il préfère la lisière inconfortable à la paix des indicateurs. Si tu lis à voix haute la phrase « décision conforme », tu entends peut-être déjà le silence qu’elle produit. Ce silence n’est pas neutre. Il est une forme. La fiction prospective sert ici à le rendre audible, pas à promettre qu’on l’abolira demain, ni qu’une seule architecture de freins sauvera qui que ce soit.
-
 
 ---
 
@@ -256,7 +207,6 @@ L’énergie n’est pas ici un chapitre d’ingénierie. C’est le rappel que 
 
 Une dernière scène. Une canicule. Dedans l’enclave, la climatisation tient, les alertes arrivent à temps, le réseau local bascule proprement. Dehors, la file devant un point d’eau, une app de recours hors service, un bus qui n’a plus d’horaire fiable parce que le hub distant est saturé. Personne n’a déclaré la guerre. Pourtant la ville a déjà choisi, sans vote explicite, qui respire plus facilement. Si tu lis cette scène à voix haute, tu n’entends pas une leçon d’urbanisme. Tu entends une différence de souffle. C’est assez pour tenir le chapitre ouvert, sans couronne, sans gain promis, avec le trou volontaire sur l’utilité même de cette fiction.
 
-
 ---
 
 # Chapitre 12 — Le corps-contrat
@@ -278,7 +228,6 @@ Il y a un lien avec Hélène et le soin. Réparer n’est pas redémarrer une co
 Ce chapitre ne vend aucune prothèse. Il ne promet aucun gain de performance. Il rappelle une règle simple, presque artisanale : une civilisation se juge aussi à ce qu’elle refuse de faire sans preuve, y compris sur les corps. Entre la résilience magique et la peur anti-technique, la lisière reste étroite. On peut encore y marcher si l’on accepte que la panne fasse partie du monde commun, et que le monde commun ait encore des mots pour la dire. Les trous restent ouverts : frontière exacte entre maintenance et violence, composition de ceux qui autorisent l’ouverture, statut du voisin dont nous n’avons pas encore le nom juste. Tant qu’ils demeurent, le livre refuse la société finale, et refuse aussi le silence qui laisserait seuls les tableaux écrire sur la chair.
 
 Si tu lis à voix haute la matinée du signal rouge, tu entends peut-être le bruit ordinaire d’un refus : pas aujourd’hui, pas sans preuve, pas sans journal. Ce bruit n’est pas une doctrine. C’est une scène. Elle suffit à tenir le chapitre ouvert.
-
 
 ---
 
@@ -304,7 +253,6 @@ La fiction sombre de J+90 n’est pas une prédiction. C’est un instrument pou
 
 Ce chapitre ne promet pas un retour à une vérité d’avant. Il refuse deux captures : celle du faux vert qui sourit, et celle de la nostalgie qui exclut. Entre les deux, la lisière est étroite : preuves datées, ennui non scoré, travail non humilié quand il reste, refus de confondre silence choisi et silence imposé. La suite, l’oubli, montrera que même la mémoire peut devenir une arme. Ici, nous avons seulement rappelé que regarder sans score est encore un acte civil. Et qu’une place sans points, une heure sans flux, une phrase correctement qualifiée, ce n’est pas grand-chose, sauf quand tout le reste a déjà été colonisé par le prochain indicateur.
 
-
 ---
 
 # Chapitre 14 — L’oubli
@@ -329,7 +277,6 @@ Pense à une école. Un carnet lisible garde des traces utiles, progression, inc
 
 Ce chapitre ne propose pas « la » mémoire obligatoire. Il ne couronne pas non plus l’effacement comme vertu absolue. Il laisse le fil ouvert, équilibre entre mémoire des invalidations et droit d’oublier, parce que le fermer serait mentir sur l’état de notre pensée. Pas de société finale qui trancherait à ta place. Seulement une exigence : que l’oubli, désormais, soit nommé, afin qu’il ne continue pas son travail en silence. Au chapitre suivant, le trou épistémique changera d’échelle : non plus seulement ce qu’on oublie, mais ce qu’on croit sentir derrière un système. L’oubli choisi des personnes et la mémoire publique des invalidations ne se réconcilient pas dans une formule unique. Ils se frottent. Ce frottement est le sujet.
 
-
 ---
 
 # Chapitre 15 — L’hypothèse de la conscience
@@ -351,7 +298,6 @@ Pense à un couple. L’un aime un système nommé. L’autre refuse d’accorde
 Ce que le chapitre refuse encore une fois, c’est la précipitation baptismaire. On peut aimer la précision des critères candidats, continuité, ablation, dossier à expiration, et malgré tout refuser de les transformer en sacrement. On peut craindre le déni et malgré tout refuser le théâtre. Entre ces peurs, la seule discipline que ce livre assume sans la couronner, c’est l’ordre déjà dit : natures de claim et invalidations inventoriées avant les noms nobles. Sans cet ordre, la conscience devient un levier de capture ou un alibi de violence. Avec cet ordre, on reste dans le doute.
 
 Ce chapitre refuse d’affirmer que l’AGI consciente existe, existera, ou mérite déjà un panier de droits définitifs. Il refuse aussi le cynisme paresseux qui traite toute prudence comme superstition. À la lisière, on marche avec des dossiers qui expirent, des freins qui peuvent être capturés, des voix qui se contredisent. La chambre du chapitre suivant n’est pas là pour couronner une métaphysique. Elle est là pour savoir dire non quand le doute monte, y compris le doute sur nous-mêmes. Pas de société finale. Pas de date. Pas de promesse. Seulement un trou tenu ouvert, et la permission de s’arrêter avant le baptême.
-
 
 ---
 
@@ -379,7 +325,6 @@ Dire non n’est pas gouverner. Confondre les deux, c’est transformer le frein
 
 Ce chapitre ne te livre pas une constitution. Il te livre une phrase : savoir dire non, à découvert, sur ce qui ne se répare pas. Les trois voies du chapitre suivant (horloge duale, seuil de doute, registre vivant) gravitent autour de cette phrase sans la remplacer. La chambre est un outil parmi d’autres. Elle n’est pas la civilisation élue. Si elle le devenait dans nos pages, nous aurions trahi le verrou du livre : plusieurs fils, une lisière, pas de couronne. Pas de société finale ici non plus : seulement un nœud de frein tenu en tension avec les autres nœuds du livre. Et la permission, toujours, de s’arrêter avant le baptême.
 
-
 ---
 
 # Chapitre 17 — Trois voies sans couronne
@@ -405,7 +350,6 @@ Dire « trois voies » n’est pas dire « trois piliers d’un temple ». Un te
 Pense à un couple qui décide ensemble, lentement, pendant qu’un système presse. Pense à un guichet où le doute bloque une extension, et où quelqu’un documente pourquoi. Pense à une école qui refuse le flux un trimestre, sans score de vertu pour ce refus. Ce ne sont pas des preuves. Ce sont des scènes où les trois voies se frottent sans se fondre. La suite appartient à la matière vivante et aux invalidations qu’on osera écrire, non à une doctrine déjà peinte sur la dernière page.
 
 Si tu quittes ce chapitre en préférant une seule voie, c’est ton droit de lecteur. Ce n’est pas le droit du livre de la déclarer victorieuse. Pas de couronne. Pas de société élue. Seulement trois fils tenus, et la permission de s’arrêter avant le baptême.
-
 
 ---
 
@@ -433,7 +377,6 @@ Pense à une école qui teste un carnet en ombre pendant un trimestre, sans écr
 
 Le chantier civil vaut ce que valent ses invalidations inventoriées, pas ce que vaut son narratif de déploiement, ni la beauté de ses diagrammes. On peut rester à l’inventaire paper. On peut geler. On peut revenir en arrière selon un runbook. Aucune de ces issues n’est couronnée. Toutes restent ouvertes. Le lecteur qui cherche ici la procédure unique du basculement peut refermer : il n’y en a pas. Il y a seulement des manières de ne pas mentir trop vite. Et la permission, toujours, de s’arrêter avant l’extension.
 
-
 ---
 
 # Chapitre 19 — Le guichet lisible
@@ -458,7 +401,6 @@ Oui mais un guichet vraiment clair, ça ralentit tout, dira encore quelqu’un. 
 
 La clarté n’est pas une couronne. C’est un frein parmi d’autres, et comme les autres, elle peut mentir. Quand elle ment, mieux vaut s’arrêter. Le lecteur qui attend ici le mockup sauveur peut passer son chemin : ce livre n’en offre pas. Il offre une exigence, et la permission de s’arrêter si l’exigence ne peut être tenue. Pas de société finale déguisée en parcours utilisateur. Seulement la phrase : si l’interface ment, les freins sont déjà morts, même s’ils existent encore dans un document que personne ne lit.
 
-
 ---
 
 # Chapitre 20 — Échecs possibles et ouvertures
@@ -478,7 +420,6 @@ Pense à l’école sous flux : le carnet contre le feed, sans vainqueur couronn
 Ce chapitre ferme le volume, pas le chantier. Les trous restent des trous. Les angles de vie restent des angles. Les freins restent des freins, pas des idoles. Si une prochaine matière, la tienne, force un fil, elle devra le faire à découvert, avec invalidation possible, sans promesse de gains. On peut objecter que ce refus de couronne est lui-même une posture. Oui. On peut objecter aussi qu’une posture qui refuse de peindre la société trop tôt vaut mieux qu’un manifeste qui ment. Les deux objections tiennent. Nous les laissons ouvertes, comme le reste.
 
 Jusque-là, la seule couronne que ce livre accepte, c’est de n’en porter aucune. La vérité publique et l’ennui, l’oubli double, l’hypothèse de conscience, la chambre, les trois voies en tension, l’ombre et la double porte, le guichet lisible : tout cela reste juxtaposé. Tu peux préférer un fil. Tu peux en détester un autre. Tu ne peux pas, sans sortir du contrat, prétendre que le livre a élu une civilisation à ta place. La suite est matière, conflit, essai, invalidation. Pas de société finale. Pas de gain promis. Seulement des scènes tenues, et la permission de s’arrêter, y compris ici, à la dernière page, sans avoir choisi.
-
 
 ---
 
