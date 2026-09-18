@@ -8,10 +8,10 @@ Nous ne résolvons pas ici cette contradiction. Nous la tenons. D’un côté, l
 
 Le doute qui bloque n’est pas l’ennemi de l’intelligence artificielle. C’est une manière de refuser que l’intelligence se confonde avec la permission. Une machine peut calculer vite et malgré tout ne pas avoir le droit d’écrire dans le monde. Ce droit, s’il existe, doit pouvoir être retiré, publiquement, pas dans un menu caché.
 
-Qui fixe le seuil, au juste. Un comité. Un vote. Un protocole qui s’écrit tout seul. Une chambre humaine qui peut encore dire non. Chaque réponse ouvre une autre plaie. Si le seuil est trop bas, on n’ose plus rien, et l’injustice déjà là se durcit en silence. Si le seuil est trop haut, on ouvre trop tôt, et l’on découvre après coup ce qu’on a laissé écrire dans des vies.
+Qui fixe le seuil, au juste ? Un comité. Un vote. Un protocole qui s’écrit tout seul. Une chambre humaine qui peut encore dire non. Chaque réponse ouvre une autre plaie. Si le seuil est trop bas, on n’ose plus rien, et l’injustice déjà là se durcit en silence. Si le seuil est trop haut, on ouvre trop tôt, et l’on découvre après coup ce qu’on a laissé écrire dans des vies.
 
-On peut aussi se demander ce que devient un « non » quand personne ne le voit. Un blocage sans récit public ressemble à une panne. Un blocage raconté peut devenir un acte civil. Entre les deux, qui tient la plume. Qui décide que telle preuve suffit. Qui décide que telle preuve ne suffit pas encore.
+On peut aussi se demander ce que devient un « non » quand personne ne le voit. Un blocage sans récit public ressemble à une panne. Un blocage raconté peut devenir un acte civil. Entre les deux, qui tient la plume ? Qui décide que telle preuve suffit ? Qui décide que telle preuve ne suffit pas encore ?
 
-Et quand le doute baisse, enfin, qui a le droit de rouvrir. Faut-il la même voix que celle qui a fermé. Faut-il une voix plus large. Faut-il un délai, une scène, un recours pour ceux qui ont payé l’attente. Nous n’avons pas la formule. Nous avons seulement la permission de nous arrêter ici, sur ces questions, avant de faire comme si la suite était déjà écrite.
+Et quand le doute baisse, enfin, qui a le droit de rouvrir ? Faut-il la même voix que celle qui a fermé ? Faut-il une voix plus large ? Faut-il un délai, une scène, un recours pour ceux qui ont payé l’attente ? Nous n’avons pas la formule. Nous avons seulement la permission de nous arrêter ici, sur ces questions, avant de faire comme si la suite était déjà écrite.
 
 Le chapitre suivant regarde ce qu’on pourrait tenir avant même de baptiser des institutions. Pour l’instant, gardons le doute ouvert. Il pèse. Il protège parfois. Il retarde parfois. Il demande encore : à qui profite la précipitation, et à qui profite le silence du frein.
