@@ -10,7 +10,7 @@ La pression, tu la connais peut-être déjà. Les outils tranchent plus vite que
 
 Je ne vais pas te livrer *la* bonne société. Il y aura plusieurs fils. Ils se croisent. Ils se contredisent. Parfois l’un protège ce que l’autre écrase. On les garde en tension. Si une seule réponse gagnait trop tôt, elle mentirait.
 
-Lis comme sur une crête. D’un côté : « ce ne sont que des outils. » De l’autre : « laissez mesurer, ça décidera. » Au milieu, un passage étroit : règles qu’on peut retirer, refus qu’on assume, fins qu’on ose raconter, guichets qu’on comprend vraiment.
+Lis comme à la lisière. D’un côté : « ce ne sont que des outils. » De l’autre : « laissez mesurer, ça décidera. » Au milieu, un passage étroit : règles qu’on peut retirer, refus qu’on assume, fins qu’on ose raconter, guichets qu’on comprend vraiment.
 
 Quand une idée est une hypothèse, on le dit. Quand un mot manque (robohumain, seuil exact, qui a le droit de dire non), on laisse le trou plutôt que d’inventer une définition cosmétique.
 
