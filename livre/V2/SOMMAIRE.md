@@ -54,5 +54,8 @@ Le chemin du livre : le trouble, la cohabitation, les institutions, les corps, l
 ### Échecs et ouvertures
 20. [Échecs possibles et ouvertures](20-echecs-et-ouvertures.md)
 
+### Interlude personnel
+21. [Ce que j’imagine](21-ce-que-j-imagine.md)
+
 ### Fin
 [Glossaire](GLOSSAIRE.md)
