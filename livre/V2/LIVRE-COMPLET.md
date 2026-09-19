@@ -1,6 +1,6 @@
 # Convergence
 
-**Sous-titre :** Fiction prospective sur le travail, la civilisation, et la vie avec des intelligences artificielles
+**Sous-titre :** Fiction prospective sur le travail, la civilisation, et la vie avec des intelligences artificielles · note lecteur = version lisière (sans ouverture CAF)
 
 *Fiction prospective — plusieurs fils, aucune société couronnée.*
 
@@ -80,7 +80,6 @@ Lis comme à la lisière. D’un côté : « ce ne sont que des outils. » De l�
 Quand une idée est une hypothèse, on le dit. Quand un mot manque (robohumain, seuil exact, qui a le droit de dire non), on laisse le trou plutôt que d’inventer une définition cosmétique.
 
 Si tu veux un manifeste fermé, tu peux refermer. Si tu acceptes plusieurs vérités partielles à la fois, tourne la page. On n’a pas choisi à ta place. On a commencé la carte des désaccords qui valent le coup.
-
 
 ---
 
